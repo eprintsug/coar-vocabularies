@@ -1,0 +1,322 @@
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://purl.org/coar/access_right/scheme> <http://purl.org/dc/terms/modified> "2022-09-29T10:57:25+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#altLabel> "samo dostop do metapodatkov"@sl .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#altLabel> "acceso bajo condiciones"@es .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#relatedMatch> <https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public> .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/access_right/scheme> .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#relatedMatch> <https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/restricted> .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#relatedMatch> <http://purl.org/eprint/accessRights/RestrictedAccess> .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0431\u0435\u0441\u043F\u043B\u0430\u0442\u043D\u044B\u0439 \u0434\u043E\u0441\u0442\u0443\u043F"@ru .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#altLabel> "acceso gratuito bajo restricciones"@es .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#prefLabel> "accesso aperto"@it .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#altLabel> "beperkte toegang"@nl .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#prefLabel> "acesso embargado"@pt .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#prefLabel> "embargo"@fi .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#altLabel> "acceso a registro bibliografico"@es .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#prefLabel> "acc\u00E8s r\u00E9serv\u00E9"@fr .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#prefLabel> "ambargolu eri\u015Fim"@tr .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#prefLabel> "acceso embargado"@es .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#editorialNote> "Published"@en .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#altLabel> "acceso bajo restricciones"@es .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#prefLabel> "acc\u00E9s obert"@ca .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#prefLabel> "rajoitettu saatavuus"@fi .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#prefLabel> "sous embargo"@fr .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0627\u0644\u0648\u0635\u0648\u0644 \u0627\u0644\u062D\u0631"@ar .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0627\u0644\u0648\u0635\u0648\u0644 \u0627\u0644\u0645\u062D\u0638\u0648\u0631"@ar .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#altLabel> "acc\u00E8s uniquement aux m\u00E9tadonn\u00E9es"@fr .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#altLabel> "registro bibliografico"@es .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#altLabel> "\u043F\u0440\u0438\u0441\u0442\u0443\u043F \u0441 \u043B\u043E\u0437\u0438\u043D\u043A\u043E\u043C"@sr-cyrl .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#altLabel> "acc\u00E8s restreint"@fr .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#prefLabel> "beperkt toegankelijk"@nl .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043E\u0433\u0440\u0430\u043D\u0438\u0447\u0435\u043D\u043D\u044B\u0439 \u0434\u043E\u0441\u0442\u0443\u043F"@ru .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#altLabel> "dostop z embargom"@sl .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#editorialNote> "Published"@en .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#prefLabel> "accesso limitato ai metadati"@it .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#relatedMatch> <http://purl.org/eprint/accessRights/ClosedAccess> .
+<http://purl.org/coar/access_right/scheme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://purl.org/coar/access_right/c_14cb> .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#editorialNote> "Published"@en .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#prefLabel> "odprti dostop"@sl .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0434\u043E\u0441\u0442\u0443\u043F \u043A \u043C\u0435\u0442\u0430\u0434\u0430\u043D\u043D\u044B\u043C"@ru .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30AA\u30FC\u30D7\u30F3\u30A2\u30AF\u30BB\u30B9"@ja .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#prefLabel> "alleen metadata beschikbaar"@nl .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0627\u0644\u0648\u0635\u0648\u0644 \u0627\u0644\u0645\u0642\u064A\u062F"@ar .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#prefLabel> "vrij toegankelijk"@nl .
+<http://purl.org/coar/access_right/scheme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://purl.org/coar/access_right/c_abf2> .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#prefLabel> "nur Metadaten"@de .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#prefLabel> "offener Zugang"@de .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#prefLabel> "accesso riservato"@it .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#prefLabel> "restricted access"@en .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#prefLabel> "acc\u00E9s restringit"@ca .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#prefLabel> "acesso aberto"@pt .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#prefLabel> "embargoed access"@en .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#relatedMatch> <http://purl.org/eprint/accessRights/OpenAccess> .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#prefLabel> "avoin saatavuus"@fi .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#prefLabel> "acesso a metadados"@pt .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30A8\u30F3\u30D0\u30FC\u30B4\u6709"@ja .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#altLabel> "alleen metadata"@nl .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#prefLabel> "vain metadata saatavissa"@fi .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#prefLabel> "pristup ograni\u010Den na metapodatke"@sr .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#altLabel> "acc\u00E8s sous embargo"@fr .
+<http://purl.org/coar/access_right/scheme> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#altLabel> "acesso limitado a metadados"@pt .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/access_right/scheme> .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#prefLabel> "onder embargo"@nl .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#altLabel> "acceso abierto gratuito"@es .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#altLabel> "vrij beschikbaar"@nl .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#definition> "Open access refers to a resource that is immediately and permanently online, and free for all on the Web, without financial and technical barriers.The resource is either stored in the repository or referenced to an external journal or trustworthy archive."@en .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#prefLabel> "samo metapodatki"@sl .
+<http://purl.org/coar/access_right/scheme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://purl.org/coar/access_right/c_16ec> .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#altLabel> "acceso a registro bibliogr\u00E1fico"@es .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0627\u0644\u0648\u0635\u0648\u0644 \u0627\u0644\u0645\u062D\u062F\u0648\u062F \u0628\u0627\u0644\u0645\u064A\u062A\u0627\u062F\u0627\u062A\u0627"@ar .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#altLabel> "deposito oscuro"@es .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/access_right/scheme> .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#prefLabel> "odlo\u017Eeni otvoreni pristup"@sr .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#prefLabel> "acceso restringido"@es .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#altLabel> "acesso sob embargo"@pt .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#prefLabel> "odlog javne objave"@sl .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#altLabel> "acc\u00E8s sous condition"@fr .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#altLabel> "acceso bajo periodo de embargo"@es .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#prefLabel> "acceso abierto"@es .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#definition> "Embargoed access refers to a resource that is metadata only access until released for open access on a certain date. Embargoes can be required by publishers and funders policies, or set by the author (e.g such as in the case of theses and dissertations)."@en .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#altLabel> "acc\u00E8s libre"@fr .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#altLabel> "acceso a metadatos solamente"@es .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#altLabel> "libre acc\u00E8s apr\u00E8s dur\u00E9e d'embargo"@fr .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/access_right/scheme> .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#altLabel> "acceso con periodo de carencia"@es .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#prefLabel> "s\u0131n\u0131rl\u0131 eri\u015Fim"@tr .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#prefLabel> "eingeschr\u00E4nkter Zugang"@de .
+<http://purl.org/coar/access_right/scheme> <http://www.w3.org/2000/01/rdf-schema#label> "Access Rights" .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#altLabel> "acc\u00E8s libre retard\u00E9"@fr .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#prefLabel> "sadece \u00FCstveri eri\u015Fimi"@tr .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#altLabel> "libre acc\u00E8s aux seules m\u00E9tadonn\u00E9es"@fr .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#altLabel> "k\u0131s\u0131tl\u0131 eri\u015Fim"@tr .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#definition> "Restricted access refers to a resource that is available in a system but with some type of restriction for full open access. This type of access can occur in a number of different situations. Some examples are described below:\nThe user must log-in to the system in order to access the resource\nThe user must send an email to the author or system administrator to access the resource\nAccess to the resource is restricted to a specific community (e.g. limited to a university community)"@en .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#altLabel> "acc\u00E8s limit\u00E9 aux m\u00E9tadonn\u00E9es"@fr .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#prefLabel> "libre acc\u00E8s"@fr .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#altLabel> "vapaa p\u00E4\u00E4sy"@fi .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#prefLabel> "omejen dostop"@sl .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/access_right/scheme> .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#altLabel> "acesso livre"@pt .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#prefLabel> "acc\u00E9s embargat"@ca .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043F\u0440\u0438\u0441\u0442\u0443\u043F \u043E\u0433\u0440\u0430\u043D\u0438\u0447\u0435\u043D \u043D\u0430 \u043C\u0435\u0442\u0430\u043F\u043E\u0434\u0430\u0442\u043A\u0435"@sr-cyrl .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043E\u0434\u043B\u043E\u0436\u0435\u043D\u0438 \u043E\u0442\u0432\u043E\u0440\u0435\u043D\u0438 \u043F\u0440\u0438\u0441\u0442\u0443\u043F"@sr-cyrl .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#altLabel> "libre acc\u00E8s diff\u00E9r\u00E9"@fr .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#definition> "Metadata only access refers to a resource in which access is limited to metadata only. The resource itself is described by the metadata, but neither is directly available through the system or platform nor can be referenced to an open access copy in an external journal or trustworthy archive."@en .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/access_right/scheme> .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#prefLabel> "acesso restrito"@pt .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#altLabel> "open access"@fr .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#altLabel> "pristup s lozinkom"@sr .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#altLabel> "sadece metadata eri\u015Fimi"@tr .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043E\u0433\u0440\u0430\u043D\u0438\u0447\u0435\u043D\u0438 \u043F\u0440\u0438\u0441\u0442\u0443\u043F"@sr-cyrl .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#prefLabel> "registro bibliogr\u00E1fico"@es .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#altLabel> "acceso p\u00FAblico"@es .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#altLabel> "freier Zugang"@de .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#prefLabel> "otvoreni pristup"@sr .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#altLabel> "acc\u00E8s ouvert"@fr .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#prefLabel> "metadata only access"@en .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#altLabel> "acc\u00E8s limit\u00E9"@fr .
+<http://purl.org/coar/access_right/scheme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://purl.org/coar/access_right/c_f1cf> .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/access_right/scheme> .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#altLabel> "acceso bajo per\u00EDodo de embargo"@es .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#altLabel> "acc\u00E8s aux abonn\u00E9s"@fr .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#altLabel> "acceso con periodo de embargo"@es .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#altLabel> "acceso a metadatos"@es .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#altLabel> "rajoitettu p\u00E4\u00E4sy"@fi .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#altLabel> "dep\u00F3sito oscuro"@es .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#prefLabel> "accesso sottoposto a periodo di embargo"@it .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#altLabel> "acceso con limitaciones"@es .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#prefLabel> "acc\u00E9s nom\u00E9s a metadades"@ca .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#prefLabel> "ograni\u010Deni pristup"@sr .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#prefLabel> "open access"@en .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/access_right/scheme> .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30E1\u30BF\u30C7\u30FC\u30BF\u306E\u307F"@ja .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u30A2\u30AF\u30BB\u30B9\u5236\u9650\u6709"@ja .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zugang unterliegt Embargo"@de .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#altLabel> "acceso gratuito mediado"@es .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#prefLabel> "a\u00E7\u0131k eri\u015Fim"@tr .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043E\u0442\u0432\u043E\u0440\u0435\u043D\u0438 \u043F\u0440\u0438\u0441\u0442\u0443\u043F"@sr-cyrl .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#prefLabel> "acc\u00E8s aux seules m\u00E9tadonn\u00E9es"@fr .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043E\u0442\u043A\u0440\u044B\u0442\u044B\u0439 \u0434\u043E\u0441\u0442\u0443\u043F"@ru .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0434\u043E\u0441\u0442\u0443\u043F \u0441 \u044D\u043C\u0431\u0430\u0440\u0433\u043E"@ru .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#editorialNote> "Published"@en .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#altLabel> "acc\u00E8s restreint aux m\u00E9tadonn\u00E9es"@fr .
+
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://purl.org/coar/access_right/scheme> <http://purl.org/dc/terms/modified> "2022-09-29T10:57:25+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#altLabel> "samo dostop do metapodatkov"@sl .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#altLabel> "acceso bajo condiciones"@es .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#relatedMatch> <https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public> .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/access_right/scheme> .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#relatedMatch> <https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/restricted> .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#relatedMatch> <http://purl.org/eprint/accessRights/RestrictedAccess> .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#altLabel> "бесплатный доступ"@ru .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#altLabel> "acceso gratuito bajo restricciones"@es .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#prefLabel> "accesso aperto"@it .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#altLabel> "beperkte toegang"@nl .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#prefLabel> "acesso embargado"@pt .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#prefLabel> "embargo"@fi .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#altLabel> "acceso a registro bibliografico"@es .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#prefLabel> "accès réservé"@fr .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#prefLabel> "ambargolu erişim"@tr .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#prefLabel> "acceso embargado"@es .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#editorialNote> "Published"@en .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#altLabel> "acceso bajo restricciones"@es .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#prefLabel> "accés obert"@ca .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#prefLabel> "rajoitettu saatavuus"@fi .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#prefLabel> "sous embargo"@fr .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#prefLabel> "الوصول الحر"@ar .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#prefLabel> "الوصول المحظور"@ar .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#altLabel> "accès uniquement aux métadonnées"@fr .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#altLabel> "registro bibliografico"@es .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#altLabel> "приступ с лозинком"@sr-cyrl .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#altLabel> "accès restreint"@fr .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#prefLabel> "beperkt toegankelijk"@nl .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#prefLabel> "ограниченный доступ"@ru .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#altLabel> "dostop z embargom"@sl .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#editorialNote> "Published"@en .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#prefLabel> "accesso limitato ai metadati"@it .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#relatedMatch> <http://purl.org/eprint/accessRights/ClosedAccess> .
+<http://purl.org/coar/access_right/scheme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://purl.org/coar/access_right/c_14cb> .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#editorialNote> "Published"@en .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#prefLabel> "odprti dostop"@sl .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#prefLabel> "доступ к метаданным"@ru .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#prefLabel> "オープンアクセス"@ja .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#prefLabel> "alleen metadata beschikbaar"@nl .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#prefLabel> "الوصول المقيد"@ar .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#prefLabel> "vrij toegankelijk"@nl .
+<http://purl.org/coar/access_right/scheme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://purl.org/coar/access_right/c_abf2> .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#prefLabel> "nur Metadaten"@de .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#prefLabel> "offener Zugang"@de .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#prefLabel> "accesso riservato"@it .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#prefLabel> "restricted access"@en .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#prefLabel> "accés restringit"@ca .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#prefLabel> "acesso aberto"@pt .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#prefLabel> "embargoed access"@en .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#relatedMatch> <http://purl.org/eprint/accessRights/OpenAccess> .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#prefLabel> "avoin saatavuus"@fi .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#prefLabel> "acesso a metadados"@pt .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#prefLabel> "エンバーゴ有"@ja .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#altLabel> "alleen metadata"@nl .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#prefLabel> "vain metadata saatavissa"@fi .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#prefLabel> "pristup ograničen na metapodatke"@sr .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#altLabel> "accès sous embargo"@fr .
+<http://purl.org/coar/access_right/scheme> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#altLabel> "acesso limitado a metadados"@pt .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/access_right/scheme> .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#prefLabel> "onder embargo"@nl .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#altLabel> "acceso abierto gratuito"@es .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#altLabel> "vrij beschikbaar"@nl .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#definition> "Open access refers to a resource that is immediately and permanently online, and free for all on the Web, without financial and technical barriers.The resource is either stored in the repository or referenced to an external journal or trustworthy archive."@en .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#prefLabel> "samo metapodatki"@sl .
+<http://purl.org/coar/access_right/scheme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://purl.org/coar/access_right/c_16ec> .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#altLabel> "acceso a registro bibliográfico"@es .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#prefLabel> "الوصول المحدود بالميتاداتا"@ar .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#altLabel> "deposito oscuro"@es .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/access_right/scheme> .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#prefLabel> "odloženi otvoreni pristup"@sr .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#prefLabel> "acceso restringido"@es .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#altLabel> "acesso sob embargo"@pt .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#prefLabel> "odlog javne objave"@sl .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#altLabel> "accès sous condition"@fr .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#altLabel> "acceso bajo periodo de embargo"@es .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#prefLabel> "acceso abierto"@es .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#definition> "Embargoed access refers to a resource that is metadata only access until released for open access on a certain date. Embargoes can be required by publishers and funders policies, or set by the author (e.g such as in the case of theses and dissertations)."@en .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#altLabel> "accès libre"@fr .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#altLabel> "acceso a metadatos solamente"@es .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#altLabel> "libre accès après durée d'embargo"@fr .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/access_right/scheme> .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#altLabel> "acceso con periodo de carencia"@es .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#prefLabel> "sınırlı erişim"@tr .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#prefLabel> "eingeschränkter Zugang"@de .
+<http://purl.org/coar/access_right/scheme> <http://www.w3.org/2000/01/rdf-schema#label> "Access Rights" .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#altLabel> "accès libre retardé"@fr .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#prefLabel> "sadece üstveri erişimi"@tr .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#altLabel> "libre accès aux seules métadonnées"@fr .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#altLabel> "kısıtlı erişim"@tr .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#definition> "Restricted access refers to a resource that is available in a system but with some type of restriction for full open access. This type of access can occur in a number of different situations. Some examples are described below:\nThe user must log-in to the system in order to access the resource\nThe user must send an email to the author or system administrator to access the resource\nAccess to the resource is restricted to a specific community (e.g. limited to a university community)"@en .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#altLabel> "accès limité aux métadonnées"@fr .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#prefLabel> "libre accès"@fr .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#altLabel> "vapaa pääsy"@fi .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#prefLabel> "omejen dostop"@sl .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/access_right/scheme> .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#altLabel> "acesso livre"@pt .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#prefLabel> "accés embargat"@ca .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#prefLabel> "приступ ограничен на метаподатке"@sr-cyrl .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#prefLabel> "одложени отворени приступ"@sr-cyrl .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#altLabel> "libre accès différé"@fr .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#definition> "Metadata only access refers to a resource in which access is limited to metadata only. The resource itself is described by the metadata, but neither is directly available through the system or platform nor can be referenced to an open access copy in an external journal or trustworthy archive."@en .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/access_right/scheme> .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#prefLabel> "acesso restrito"@pt .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#altLabel> "open access"@fr .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#altLabel> "pristup s lozinkom"@sr .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#altLabel> "sadece metadata erişimi"@tr .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#prefLabel> "ограничени приступ"@sr-cyrl .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#prefLabel> "registro bibliográfico"@es .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#altLabel> "acceso público"@es .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#altLabel> "freier Zugang"@de .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#prefLabel> "otvoreni pristup"@sr .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#altLabel> "accès ouvert"@fr .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#prefLabel> "metadata only access"@en .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#altLabel> "accès limité"@fr .
+<http://purl.org/coar/access_right/scheme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://purl.org/coar/access_right/c_f1cf> .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/access_right/scheme> .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#altLabel> "acceso bajo período de embargo"@es .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#altLabel> "accès aux abonnés"@fr .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#altLabel> "acceso con periodo de embargo"@es .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#altLabel> "acceso a metadatos"@es .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#altLabel> "rajoitettu pääsy"@fi .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#altLabel> "depósito oscuro"@es .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#prefLabel> "accesso sottoposto a periodo di embargo"@it .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#altLabel> "acceso con limitaciones"@es .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#prefLabel> "accés només a metadades"@ca .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#prefLabel> "ograničeni pristup"@sr .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#prefLabel> "open access"@en .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/access_right/scheme> .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#prefLabel> "メタデータのみ"@ja .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#prefLabel> "アクセス制限有"@ja .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zugang unterliegt Embargo"@de .
+<http://purl.org/coar/access_right/c_16ec> <http://www.w3.org/2004/02/skos/core#altLabel> "acceso gratuito mediado"@es .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#prefLabel> "açık erişim"@tr .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#prefLabel> "отворени приступ"@sr-cyrl .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#prefLabel> "accès aux seules métadonnées"@fr .
+<http://purl.org/coar/access_right/c_abf2> <http://www.w3.org/2004/02/skos/core#prefLabel> "открытый доступ"@ru .
+<http://purl.org/coar/access_right/c_f1cf> <http://www.w3.org/2004/02/skos/core#prefLabel> "доступ с эмбарго"@ru .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#editorialNote> "Published"@en .
+<http://purl.org/coar/access_right/c_14cb> <http://www.w3.org/2004/02/skos/core#altLabel> "accès restreint aux métadonnées"@fr .
+<http://purl.org/coar/access_right/scheme> <http://purl.org/dc/terms/title> "Access Rights" .
+<http://purl.org/coar/access_right/scheme> <http://purl.org/dc/terms/description> "The Access Rights vocabulary defines concepts to declare the access status of a resource. Multilingual labels regard regional distinctions in language and term." .
+<http://purl.org/coar/access_right/scheme> <http://purl.org/dc/terms/creator> "Alberto Apollaro" .
+<http://purl.org/coar/access_right/scheme> <http://purl.org/dc/terms/creator> "Sophie Aubin" .
+<http://purl.org/coar/access_right/scheme> <http://purl.org/dc/terms/creator> "Cristina Azorín" .
+<http://purl.org/coar/access_right/scheme> <http://purl.org/dc/terms/creator> "Paola Azrilevich" .
+<http://purl.org/coar/access_right/scheme> <http://purl.org/dc/terms/creator> "Isabel Bernal" .
+<http://purl.org/coar/access_right/scheme> <http://purl.org/dc/terms/creator> "Dan Liu" .
+<http://purl.org/coar/access_right/scheme> <http://purl.org/dc/terms/creator> "Dom Fripp" .
+<http://purl.org/coar/access_right/scheme> <http://purl.org/dc/terms/creator> "Gültekin Gürdal" .
+<http://purl.org/coar/access_right/scheme> <http://purl.org/dc/terms/creator> "Sawsan Habre" .
+<http://purl.org/coar/access_right/scheme> <http://purl.org/dc/terms/creator> "Juha Hakala" .
+<http://purl.org/coar/access_right/scheme> <http://purl.org/dc/terms/creator> "Yutaka Hayashi" .
+<http://purl.org/coar/access_right/scheme> <http://purl.org/dc/terms/creator> "Ilkay Holt" .
+<http://purl.org/coar/access_right/scheme> <http://purl.org/dc/terms/creator> "Nie Hua" .
+<http://purl.org/coar/access_right/scheme> <http://purl.org/dc/terms/creator> "Hilary Jones" .
+<http://purl.org/coar/access_right/scheme> <http://purl.org/dc/terms/creator> "Tomoko Kataoka" .
+<http://purl.org/coar/access_right/scheme> <http://purl.org/dc/terms/creator> "Laurence Le Borgne" .
+<http://purl.org/coar/access_right/scheme> <http://purl.org/dc/terms/creator> "Ku (Alan) Liping" .
+<http://purl.org/coar/access_right/scheme> <http://purl.org/dc/terms/creator> "Marina Losada" .
+<http://purl.org/coar/access_right/scheme> <http://purl.org/dc/terms/creator> "Susanna Mornati" .
+<http://purl.org/coar/access_right/scheme> <http://purl.org/dc/terms/creator> "Brigit Nonó" .
+<http://purl.org/coar/access_right/scheme> <http://purl.org/dc/terms/creator> "Milan Ojsteršek" .
+<http://purl.org/coar/access_right/scheme> <http://purl.org/dc/terms/creator> "Pedro Príncipe" .
+<http://purl.org/coar/access_right/scheme> <http://purl.org/dc/terms/creator> "Jochen Schirrwagen" .
+<http://purl.org/coar/access_right/scheme> <http://purl.org/dc/terms/creator> "Milica Sevkusic" .
+<http://purl.org/coar/access_right/scheme> <http://purl.org/dc/terms/creator> "Tomoya Shiota" .
+<http://purl.org/coar/access_right/scheme> <http://purl.org/dc/terms/creator> "Iryna Solodovnik" .
+<http://purl.org/coar/access_right/scheme> <http://purl.org/dc/terms/creator> "Wilko Steinhoff" .
+<http://purl.org/coar/access_right/scheme> <http://purl.org/dc/terms/creator> "Nathalie Vedovotto" .
+<http://purl.org/coar/access_right/scheme> <http://purl.org/dc/terms/contributor> "COAR Controlled Vocabularies Interest Group" .

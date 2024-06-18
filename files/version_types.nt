@@ -1,0 +1,553 @@
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#altLabel> "enhanced version of record"@en .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#prefLabel> "version accept\u00E9e"@fr .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#altLabel> "\u043E\u0434\u043E\u0431\u0440\u0435\u043D\u043D\u044B\u0439"@ru .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u51FA\u7248\u7A3F"@zh .
+<http://purl.org/coar/version/scheme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://purl.org/coar/version/c_e19f295774971610> .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#altLabel> "versi\u00F3n publicada corregida"@es .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#altLabel> "versi\u00F3n enviada a revisi\u00F3n"@es .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#altLabel> "nerecenzirani rukopis"@sr .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#editorialNote> "Chinese translations added July 2022"@en .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#altLabel> "version"@fr .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#altLabel> "versi\u00F3n enviada a revisi\u00F3n por pares"@es .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#altLabel> "\u043E\u0440\u0438\u0433\u0438\u043D\u0430\u043B"@ru .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#altLabel> "versi\u00F3 amb modificacions"@ca .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#prefLabel> "versi\u00F3 actualitzada"@ca .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#prefLabel> "P"@en .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#altLabel> "\u043E\u0434\u043E\u0431\u0440\u0435\u043D\u044B"@ru .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#prefLabel> "gepubliceerde versie"@nl .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#altLabel> "altres"@ca .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#prefLabel> "versi\u00F3n sometida a revisi\u00F3n"@es .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u4F5C\u8005\u624B\u7A3F"@zh .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#altLabel> "accepted version"@en .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u66F4\u65B0\u7248"@ja .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#altLabel> "\u043D\u0430 \u0440\u0430\u0441\u0441\u043C\u043E\u0442\u0440\u0435\u043D\u0438\u0438 \u0432 \u0440\u0435\u0434\u0430\u043A\u0446\u0438\u0438"@ru .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#altLabel> "\u8BBA\u6587\u5904\u7406\u7A3F\u3001\u8BBA\u6587\u7F16\u4FEE\u8BB0\u5F55\u3001\u8BBA\u6587\u6C38\u4E45\u4FDD\u5B58\u7A3F"@zh .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#altLabel> "recenzirana verzija"@sr .
+<http://purl.org/coar/version/scheme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://purl.org/coar/version/c_fa2ee174bc00049f> .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#definition> "A version of a resource that is created as part of the publication process. This includes the copy-edited manuscript, galley proofs (i.e., a typeset version that has not been made up into pages), page proofs, and revised proofs. Some of these versions may remain essentially internal process versions, but others are commonly released from the internal environment (e.g., proofs are sent to authors) and may thus become public, even though they are not authorized to be so. Content has been changed from Accepted Manuscript; layout is the publisher\u2019s.\n(adapted from NISO-JAV, https://www.niso.org/publications/niso-rp-8-2008-jav)"@en .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#prefLabel> "p\u00E4ivitetty julkaistu versio"@fi .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#altLabel> "preprint"@fr .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043D\u0438\u0458\u0435 \u043F\u0440\u0438\u043C\u0435\u043D\u0459\u0438\u0432\u043E (\u0438\u043B\u0438 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u0458\u0430 \u043D\u0438\u0458\u0435 \u0434\u043E\u0441\u0442\u0443\u043F\u043D\u0430)"@sr-cyrl .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/version/scheme> .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0440\u0443\u043A\u043E\u043F\u0438\u0441\u044C \u043F\u0440\u0438\u043D\u044F\u0442\u0430\u044F \u043A \u043F\u0443\u0431\u043B\u0438\u043A\u0430\u0446\u0438\u0438"@ru .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#prefLabel> "versi\u00F3n final del autor"@es .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0440\u0443\u043A\u043E\u043F\u0438\u0441\u044C \u043F\u0440\u0438\u043D\u044F\u0442\u0430\u044F \u043A \u0440\u0430\u0441\u0441\u043C\u043E\u0442\u0440\u0435\u043D\u0438\u044E"@ru .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#editorialNote> "Chinese translations added July 2022"@en .
+<http://purl.org/coar/version/scheme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://purl.org/coar/version/c_970fb48d4fbd8a85> .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#altLabel> "accepted manuscript"@en .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#definition> "A version of the Version of Record of a resource in which errors in the VoR have been corrected. The errors may be author errors, publisher errors, or other processing errors.\n(adapted from NISO-JAV, https://www.niso.org/publications/niso-rp-8-2008-jav)"@en .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#altLabel> "gewijzigde versie"@nl .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#altLabel> "\u00D6n bask\u0131"@tr .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#altLabel> "\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B\u044B \u043F\u0440\u0438\u043D\u044F\u0442\u044B\u0435 \u043A \u043F\u0443\u0431\u043B\u0438\u043A\u0430\u0446\u0438\u0438"@ru .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#prefLabel> "verzija prihva\u0107ena za objavljivanje"@sr .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#prefLabel> "version publi\u00E9e"@fr .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/info:eu-repo/semantics/authorVersion> .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043E\u0431\u0458\u0430\u0432\u0459\u0435\u043D\u0430 \u0432\u0435\u0440\u0437\u0438\u0458\u0430"@sr-cyrl .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#prefLabel> "CVoR"@en .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#altLabel> "not applicable (or unknown)"@en .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#prefLabel> "NA"@en .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6821\u6B63\u7248"@ja .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#prefLabel> "eingereichte Version"@de .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u51FA\u7248\u793E\u7248"@ja .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#prefLabel> "versi\u00F3 de l'autor"@ca .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#prefLabel> "version soumise"@fr .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/version/scheme> .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#altLabel> "versi\u00F3 enviada a revisi\u00F3"@ca .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#prefLabel> "herziene versie"@nl .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#definition> "A version of the Version of Record of a resource that has been updated or \nenhanced by the provision of supplementary material.\n(adapted from NISO-JAV, https://www.niso.org/publications/niso-rp-8-2008-jav)"@en .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#prefLabel> "korrigierte Version"@de .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#altLabel> "manuscrito editado"@es .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#prefLabel> "dopunjena verzija"@sr .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0432\u0435\u0440\u0441\u0438\u044F \u0437\u0430\u043F\u0438\u0441\u0438"@ru .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#prefLabel> "versi\u00F3 acceptada per publicar"@ca .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#prefLabel> "Yazar\u0131n orijinal versiyonu"@tr .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#editorialNote> "Chinese translations added in July 2022"@en .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#prefLabel> "version am\u00E9lior\u00E9e"@fr .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#prefLabel> "versione sottoposta a revisione"@it .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#prefLabel> "artikkelin ennakkoversio"@fi .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#prefLabel> "korjattu julkaistu versio"@fi .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#altLabel> "\u6B63\u5F0F\u63D0\u4EA4\u7A3F\u3001\u51FA\u7248\u524D\u9001\u5BA1\u7A3F\u3001\u51FA\u7248\u793E\u7F16\u4FEE\u7A3F\u3001\u5BA1\u8BFB\u7A3F"@zh .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#altLabel> "version d'origine"@fr .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043E\u0434\u043E\u0431\u0440\u0435\u043D"@ru .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#prefLabel> "revisie"@nl .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#prefLabel> "versi\u00F3 corregida"@ca .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#prefLabel> "proefdruk"@nl .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u51FA\u7248\u793E\u53D7\u7406\u7248"@ja .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#altLabel> "non applicabile (o ignoto)"@it .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#editorialNote> "Chinese translations added July 2022"@en .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#altLabel> "manuscrito"@es .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u51FA\u7248\u793E\u7248\u5F0F\u7A3F"@zh .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#altLabel> "autre version"@fr .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#altLabel> "author's original"@en .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#altLabel> "probni otisak"@sr .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#altLabel> "\u043D\u0430 \u0440\u0430\u0441\u0441\u043C\u043E\u0442\u0440\u0435\u043D\u0438\u0438 \u0436\u0443\u0440\u043D\u0430\u043B\u0430"@ru .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#prefLabel> "niet van toepassing (onbekend)"@nl .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hakem de\u011Ferlendirmesi i\u00E7in g\u00F6nderilmi\u015F versiyon"@tr .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#altLabel> "\u672A\u5F55\u7528\u7A3F\u3001\u5F85\u5904\u7406\u7A3F\u3001\u4E0D\u6D89\u53CA\u3001\u5176\u5B83"@zh .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#altLabel> "postprint version"@en .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#altLabel> "a\u017Eurirana verzija"@sr .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#prefLabel> "koevedos"@fi .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#altLabel> "\u043A\u043E\u043D\u0430\u0447\u043D\u0430 \u043E\u0431\u0458\u0430\u0432\u0459\u0435\u043D\u0430 \u0432\u0435\u0440\u0437\u0438\u0458\u0430"@sr .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#altLabel> "drukproef"@nl .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#altLabel> "manuscrito aceptado"@es .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#prefLabel> "versi\u00F3n desconocida"@es .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#altLabel> "versie"@nl .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#prefLabel> "Redakte edilmi\u015F versiyon"@tr .
+<http://purl.org/coar/version/scheme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://purl.org/coar/version/c_ab4af688f83e57aa> .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0432\u0435\u0440\u0437\u0438\u0458\u0430 \u043F\u0440\u0438\u0445\u0432\u0430\u045B\u0435\u043D\u0430 \u0437\u0430 \u043E\u0431\u0458\u0430\u0432\u0459\u0438\u0432\u0430\u045A\u0435"@sr-cyrl .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#altLabel> "preprint"@nl .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043D\u0435 \u043F\u0440\u0438\u043C\u0435\u043D\u0438\u043C\u043E (\u0438\u043B\u0438 \u043D\u0435\u0438\u0437\u0432\u0435\u0441\u0442\u043D\u043E)"@ru .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#prefLabel> "akzeptiertes Manuskript"@de .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#altLabel> "submitted manuscript under review"@en .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/version/scheme> .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#prefLabel> "julkaistu versio"@fi .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#altLabel> "no aplica"@es .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0430\u0436\u0443\u0440\u0438\u0440\u0430\u043D\u0430 \u0432\u0435\u0440\u0437\u0438\u0458\u0430"@sr-cyrl .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/version/scheme> .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#altLabel> "postpublication"@fr .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#prefLabel> "auteurs versie"@nl .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/version/scheme> .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#prefLabel> "AO"@en .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#prefLabel> "SMUR"@en .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#altLabel> "versi\u00F3 final de l'editor"@ca .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/version/scheme> .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#prefLabel> "prueba de galera"@es .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#altLabel> "\u043F\u0440\u043E\u0431\u043D\u0438 \u043E\u0442\u0438\u0441\u0430\u043A"@sr-cyrl .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/version/scheme> .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#altLabel> "\u043E\u0434\u043E\u0431\u0440\u0435\u043D\u0430"@ru .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/version/scheme> .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0434\u043E\u043F\u0443\u045A\u0435\u043D\u0430 \u0432\u0435\u0440\u0437\u0438\u0458\u0430"@sr-cyrl .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#prefLabel> "probna kopija"@sr .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#altLabel> "corrected version of record"@en .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u8457\u8005\u30AA\u30EA\u30B8\u30CA\u30EB\u7248"@ja .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043D\u0430 \u0440\u0430\u0441\u0441\u043C\u043E\u0442\u0440\u0435\u043D\u0438\u0438 \u043D\u0430 \u043F\u0440\u0435\u0434\u043C\u0435\u0442 \u043F\u0443\u0431\u043B\u0438\u043A\u0430\u0446\u0438\u0438"@ru .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eserin geli\u015Ftirilmi\u015F versiyonu"@tr .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/version/scheme> .
+<http://purl.org/coar/version/scheme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://purl.org/coar/version/c_be7fb7dd8ff6fe43> .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#definition> "The version of a resource that has been accepted for publication. A second party takes permanent responsibility for the resource. Content and layout follow publisher\u2019s submission requirements.\n(adapted from NISO-JAV, https://www.niso.org/publications/niso-rp-8-2008-jav)"@en .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#altLabel> "versi\u00F3 desconeguda"@ca .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u67FB\u8AAD\u7248"@ja .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#altLabel> "preprint version"@en .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043D\u043D\u0430\u044F \u0432\u0435\u0440\u0441\u0438\u044F"@ru .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#altLabel> "\u043E\u0434\u043E\u0431\u0440\u0435\u043D\u043E"@ru .
+<http://purl.org/coar/version/scheme> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#prefLabel> "versi\u00F3n original del autor"@es .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#prefLabel> "Yay\u0131na kabul edilmi\u015F versiyon"@tr .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#altLabel> "aktualisierte Version"@de .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#prefLabel> "versi\u00F3n publicada"@es .
+<http://purl.org/coar/version/scheme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://purl.org/coar/version/c_71e4c1898caa6e32> .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#prefLabel> "versi\u00F3 sotmesa a revisi\u00F3"@ca .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#altLabel> "preprint"@es .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#prefLabel> "version originale"@fr .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/version/scheme> .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#altLabel> "\u043E\u0434\u043E\u0431\u0440\u0435\u043D\u043D\u0430\u044F"@ru .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#prefLabel> "erweiterte Version"@de .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#prefLabel> "AM"@en .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#prefLabel> "korigovana verzija"@sr .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0432\u0435\u0440\u0441\u0438\u044F \u043F\u0443\u0431\u043B\u0438\u043A\u0430\u0446\u0438\u0438"@ru .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#prefLabel> "nerecenziran\u0430 verzija"@sr .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#altLabel> "versi\u00F3 final de l'autor"@ca .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#altLabel> "postprint"@es .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#prefLabel> "versi\u00F3n mejorada"@es .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#altLabel> "version \u00E9dit\u00E9e"@fr .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/version/scheme> .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#prefLabel> "autorski original"@sr .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#editorialNote> "Chinese translations added July 2022"@en .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#prefLabel> "EVoR"@en .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#definition> "Not Applicable (or Unknown)"@en .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#altLabel> "version finale"@fr .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#altLabel> "postprint"@fr .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#prefLabel> "geaccepteerde versie"@nl .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#altLabel> "versi\u00F3n aceptada para publicar"@es .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u672A\u5B9A\u4E49\u7A3F\u4EF6"@zh .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#altLabel> "versi\u00F3 acceptada"@ca .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#altLabel> "versi\u00F3n final del editor"@es .
+<http://purl.org/coar/version/scheme> <http://purl.org/dc/terms/modified> "2022-09-29T10:57:46+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#prefLabel> "Yay\u0131nc\u0131 versiyonu"@tr .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#altLabel> "\u7F16\u8F91\u6821\u8BA2\u7A3F\u3001\u7F51\u7EDC\u4F18\u5148\u53D1\u5E03\u7A3F"@zh .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#prefLabel> "prova d'impremta"@ca .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#prefLabel> "k\u00E4sikirjoitus"@fi .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u043F\u0440\u0438\u043D\u044F\u0442\u044B\u0439 \u043A \u043F\u0443\u0431\u043B\u0438\u043A\u0430\u0446\u0438\u0438"@ru .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#altLabel> "submitted version"@en .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#altLabel> "draft"@en .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#altLabel> "Yay\u0131nc\u0131 taraf\u0131ndan d\u00FCzenlenmi\u015F versiyon"@tr .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#altLabel> "\u043E\u0434\u043E\u0431\u0440\u0435\u043D\u043D\u044B\u0435"@ru .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/version/scheme> .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#prefLabel> "bozza"@it .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u8A02\u6B63\u7248"@ja .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0440\u0435\u0446\u0435\u043D\u0437\u0438\u0440\u0430\u043D\u0430 \u0432\u0435\u0440\u0437\u0438\u0458\u0430"@sr-cyrl .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043F\u0440\u043E\u0431\u043D\u0430 \u043A\u043E\u043F\u0438\u0458\u0430"@sr-cyrl .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#editorialNote> "Chinese translations added July 2022"@en .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#altLabel> "versi\u00F3 no avaluada per experts"@ca .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/version/scheme> .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0430\u0432\u0442\u043E\u0440\u0441\u043A\u0438\u0439 \u043E\u0440\u0438\u0433\u0438\u043D\u0430\u043B"@ru .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#prefLabel> "objavljena verzija"@sr .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6700\u7EC8\u5BA1\u5B9A\u7A3F"@zh .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0438\u0441\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u043D\u0430\u044F \u0432\u0435\u0440\u0441\u0438\u044F"@ru .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#altLabel> "originale Verlagspublikation"@de .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#altLabel> "esborrany"@ca .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#prefLabel> "Autorenversion"@de .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#altLabel> "versi\u00F3 publicada corregida"@ca .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#prefLabel> "versi\u00F3 publicada"@ca .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#prefLabel> "keine Angabe"@de .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#altLabel> "otros"@es .
+<http://purl.org/coar/version/scheme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://purl.org/coar/version/c_b1a7d7d4d402bcce> .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#altLabel> "\u043F\u0440\u0438\u043D\u044F\u0442\u0430\u044F \u043A \u043F\u0443\u0431\u043B\u0438\u043A\u0430\u0446\u0438\u0438 \u0440\u0443\u043A\u043E\u043F\u0438\u0441\u044C"@ru .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/version/scheme> .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0441\u0442\u0430\u0442\u044C\u044F \u043F\u0440\u0438\u043D\u044F\u0442\u0430\u044F \u043A \u043F\u0443\u0431\u043B\u0438\u043A\u0430\u0446\u0438\u0438"@ru .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#prefLabel> "versione originale dell'autore"@it .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#prefLabel> "Uygulanabilir de\u011Fil"@tr .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#altLabel> "korjausvedos"@fi .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#prefLabel> "versione accettata per la pubblicazione"@it .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#altLabel> "reprint"@fr .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043A\u043E\u0440\u0438\u0433\u043E\u0432\u0430\u043D\u0430 \u0432\u0435\u0440\u0437\u0438\u0458\u0430"@sr-cyrl .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u9884\u5370\u672C\u7A3F"@zh .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#altLabel> "pr\u00E9publication"@fr .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#altLabel> "galerada"@ca .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#prefLabel> "no aplicable"@ca .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#prefLabel> "versi\u00F3n corregida"@es .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#prefLabel> "ingediende versie"@nl .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#prefLabel> "Erstpublikation"@de .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u4F5C\u8005\u4FEE\u8BA2\u7A3F"@zh .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#altLabel> "borrador"@es .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#prefLabel> "nije primenljivo (ili informacija nije dostupna)"@sr .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#altLabel> "\u8BBA\u6587\u4E8C\u6B21\u5BA1\u5B9A\u7A3F\u3001\u8BBA\u6587\u5BA1\u5B9A\u7A3F"@zh .
+<http://purl.org/coar/version/scheme> <http://www.w3.org/2000/01/rdf-schema#label> "Version Types" .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#altLabel> "versi\u00F3n enviada al editor"@es .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/version/scheme> .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#altLabel> "premi\u00E8re version"@fr .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eserin d\u00FCzeltilmi\u015F versiyonu"@tr .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#prefLabel> "versione corretta"@it .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#altLabel> "version amend\u00E9e"@fr .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u9069\u7528\u5916"@ja .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#prefLabel> "non applicabile"@it .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#altLabel> "versi\u00F3 original de l'autor"@ca .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#altLabel> "\u540C\u884C\u8BC4\u5BA1\u53CD\u9988\u4FEE\u8BA2\u7A3F"@zh .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#prefLabel> "version corrig\u00E9e"@fr .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#definition> "Any version of a resource that is considered by the author to be of sufficient quality to be submitted for formal peer review by a second party. The author accepts full responsibility for the resource . May have a version number or date stamp. Content and layout as set out by the author.\n(adapted from NISO-JAV, https://www.niso.org/publications/niso-rp-8-2008-jav)"@en .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#prefLabel> "versione pubblicata"@it .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#prefLabel> "Korrekturfahne"@de .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#altLabel> "\u589E\u8865\u7A3F\u3001\u66F4\u65B0\u7248\u3001 \u8FFD\u52A0\u589E\u8BA2\u7248"@zh .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#prefLabel> "julkaisukelpoinen versio"@fi .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#altLabel> "\u043A\u043E\u043D\u0430\u0447\u043D\u0430 \u043E\u0431\u0458\u0430\u0432\u0459\u0435\u043D\u0430 \u0432\u0435\u0440\u0437\u0438\u0458\u0430"@sr-cyrl .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#altLabel> "versi\u00F3n no evaluada por pares"@es .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#altLabel> "Post-Print"@de .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#altLabel> "proof"@en .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#altLabel> "versi\u00F3 millorada"@ca .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#altLabel> "version of record"@en .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#definition> "Any version of a resource that is under formal review managed by a socially recognized publishing entity. The entity recognizes its responsibility to provide objective expert review and feedback to the author, and, ultimately, to pass judgment on the fitness of the resource for publication with an \u201Caccept\u201D or \u201Creject\u201D decision. May have a version number or date stamp. Content and layout follow publisher\u2019s submission requirements.\n(adapted from NISO-JAV, https://www.niso.org/publications/niso-rp-8-2008-jav)"@en .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#altLabel> "\u51FA\u7248\u793E\u53D7\u7406\u7A3F\u3001\u540E\u5370\u672C\u7A3F"@zh .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#altLabel> "\u0432\u0435\u0440\u0441\u0438\u044F \u0434\u0430\u043D\u043D\u044B\u0445"@ru .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#altLabel> "manuscrito aceptado"@es .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u4F5C\u8005\u6295\u5BA1\u7A3F"@zh .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0430\u0443\u0442\u043E\u0440\u0441\u043A\u0438 \u043E\u0440\u0438\u0433\u0438\u043D\u0430\u043B"@sr-cyrl .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#prefLabel> "versione revisionata"@it .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#altLabel> "gecorrigeerde versie"@nl .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#altLabel> "\u043D\u0435\u0440\u0435\u0446\u0435\u043D\u0437\u0438\u0440\u0430\u043D\u0438 \u0440\u0443\u043A\u043E\u043F\u0438\u0441"@sr-cyrl .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043D\u0435\u0440\u0435\u0446\u0435\u043D\u0437\u0438\u0440\u0430\u043D\u0430 \u0432\u0435\u0440\u0437\u0438\u0458\u0430"@sr-cyrl .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#altLabel> "publisher version"@en .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#altLabel> "manuscrit"@ca .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/version/scheme> .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#definition> "A fixed version of a resource that has been made available by any organization that acts as a publisher by formally and exclusively declaring the resource \u201Cpublished\u201D. This includes any \u201Cearly release\u201D resource that is formally identified as being published even before the compilation of a volume issue and assignment of associated metadata, as long as it is citable via some permanent identifier(s). This does not include any \u201Cearly release\u201D resource that has not yet been \u201Cfixed\u201D by processes that are still to be applied, such as copy-editing, proof corrections, layout, and typesetting.\n(adapted from NISO-JAV, https://www.niso.org/publications/niso-rp-8-2008-jav)"@en .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#prefLabel> "VoR"@en .
+<http://purl.org/coar/version/scheme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://purl.org/coar/version/c_dc82b40f9837b551> .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#altLabel> "oikovedos"@fi .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#editorialNote> "Chinese translations added July 2022"@en .
+
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#altLabel> "enhanced version of record"@en .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#prefLabel> "version acceptée"@fr .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#altLabel> "одобренный"@ru .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#prefLabel> "出版稿"@zh .
+<http://purl.org/coar/version/scheme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://purl.org/coar/version/c_e19f295774971610> .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#altLabel> "versión publicada corregida"@es .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#altLabel> "versión enviada a revisión"@es .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#altLabel> "nerecenzirani rukopis"@sr .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#editorialNote> "Chinese translations added July 2022"@en .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#altLabel> "version"@fr .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#altLabel> "versión enviada a revisión por pares"@es .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#altLabel> "оригинал"@ru .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#altLabel> "versió amb modificacions"@ca .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#prefLabel> "versió actualitzada"@ca .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#prefLabel> "P"@en .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#altLabel> "одобрены"@ru .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#prefLabel> "gepubliceerde versie"@nl .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#altLabel> "altres"@ca .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#prefLabel> "versión sometida a revisión"@es .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#prefLabel> "作者手稿"@zh .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#altLabel> "accepted version"@en .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#prefLabel> "更新版"@ja .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#altLabel> "на рассмотрении в редакции"@ru .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#altLabel> "论文处理稿、论文编修记录、论文永久保存稿"@zh .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#altLabel> "recenzirana verzija"@sr .
+<http://purl.org/coar/version/scheme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://purl.org/coar/version/c_fa2ee174bc00049f> .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#definition> "A version of a resource that is created as part of the publication process. This includes the copy-edited manuscript, galley proofs (i.e., a typeset version that has not been made up into pages), page proofs, and revised proofs. Some of these versions may remain essentially internal process versions, but others are commonly released from the internal environment (e.g., proofs are sent to authors) and may thus become public, even though they are not authorized to be so. Content has been changed from Accepted Manuscript; layout is the publisher’s.\n(adapted from NISO-JAV, https://www.niso.org/publications/niso-rp-8-2008-jav)"@en .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#prefLabel> "päivitetty julkaistu versio"@fi .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#altLabel> "preprint"@fr .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#prefLabel> "није применљиво (или информација није доступна)"@sr-cyrl .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/version/scheme> .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#altLabel> "рукопись принятая к публикации"@ru .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#prefLabel> "versión final del autor"@es .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#altLabel> "рукопись принятая к рассмотрению"@ru .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#editorialNote> "Chinese translations added July 2022"@en .
+<http://purl.org/coar/version/scheme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://purl.org/coar/version/c_970fb48d4fbd8a85> .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#altLabel> "accepted manuscript"@en .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#definition> "A version of the Version of Record of a resource in which errors in the VoR have been corrected. The errors may be author errors, publisher errors, or other processing errors.\n(adapted from NISO-JAV, https://www.niso.org/publications/niso-rp-8-2008-jav)"@en .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#altLabel> "gewijzigde versie"@nl .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#altLabel> "Ön baskı"@tr .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#altLabel> "материалы принятые к публикации"@ru .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#prefLabel> "verzija prihvaćena za objavljivanje"@sr .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#prefLabel> "version publiée"@fr .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/info:eu-repo/semantics/authorVersion> .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#prefLabel> "објављена верзија"@sr-cyrl .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#prefLabel> "CVoR"@en .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#altLabel> "not applicable (or unknown)"@en .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#prefLabel> "NA"@en .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#prefLabel> "校正版"@ja .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#prefLabel> "eingereichte Version"@de .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#prefLabel> "出版社版"@ja .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#prefLabel> "versió de l'autor"@ca .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#prefLabel> "version soumise"@fr .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/version/scheme> .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#altLabel> "versió enviada a revisió"@ca .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#prefLabel> "herziene versie"@nl .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#definition> "A version of the Version of Record of a resource that has been updated or \nenhanced by the provision of supplementary material.\n(adapted from NISO-JAV, https://www.niso.org/publications/niso-rp-8-2008-jav)"@en .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#prefLabel> "korrigierte Version"@de .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#altLabel> "manuscrito editado"@es .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#prefLabel> "dopunjena verzija"@sr .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#altLabel> "версия записи"@ru .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#prefLabel> "versió acceptada per publicar"@ca .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#prefLabel> "Yazarın orijinal versiyonu"@tr .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#editorialNote> "Chinese translations added in July 2022"@en .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#prefLabel> "version améliorée"@fr .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#prefLabel> "versione sottoposta a revisione"@it .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#prefLabel> "artikkelin ennakkoversio"@fi .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#prefLabel> "korjattu julkaistu versio"@fi .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#altLabel> "正式提交稿、出版前送审稿、出版社编修稿、审读稿"@zh .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#altLabel> "version d'origine"@fr .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#prefLabel> "одобрен"@ru .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#prefLabel> "revisie"@nl .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#prefLabel> "versió corregida"@ca .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#prefLabel> "proefdruk"@nl .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#prefLabel> "出版社受理版"@ja .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#altLabel> "non applicabile (o ignoto)"@it .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#editorialNote> "Chinese translations added July 2022"@en .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#altLabel> "manuscrito"@es .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#prefLabel> "出版社版式稿"@zh .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#altLabel> "autre version"@fr .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#altLabel> "author's original"@en .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#altLabel> "probni otisak"@sr .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#altLabel> "на рассмотрении журнала"@ru .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#prefLabel> "niet van toepassing (onbekend)"@nl .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hakem değerlendirmesi için gönderilmiş versiyon"@tr .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#altLabel> "未录用稿、待处理稿、不涉及、其它"@zh .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#altLabel> "postprint version"@en .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#altLabel> "ažurirana verzija"@sr .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#prefLabel> "koevedos"@fi .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#altLabel> "коначна објављена верзија"@sr .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#altLabel> "drukproef"@nl .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#altLabel> "manuscrito aceptado"@es .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#prefLabel> "versión desconocida"@es .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#altLabel> "versie"@nl .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#prefLabel> "Redakte edilmiş versiyon"@tr .
+<http://purl.org/coar/version/scheme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://purl.org/coar/version/c_ab4af688f83e57aa> .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#prefLabel> "верзија прихваћена за објављивање"@sr-cyrl .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#altLabel> "preprint"@nl .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#prefLabel> "не применимо (или неизвестно)"@ru .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#prefLabel> "akzeptiertes Manuskript"@de .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#altLabel> "submitted manuscript under review"@en .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/version/scheme> .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#prefLabel> "julkaistu versio"@fi .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#altLabel> "no aplica"@es .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#altLabel> "ажурирана верзија"@sr-cyrl .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/version/scheme> .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#altLabel> "postpublication"@fr .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#prefLabel> "auteurs versie"@nl .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/version/scheme> .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#prefLabel> "AO"@en .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#prefLabel> "SMUR"@en .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#altLabel> "versió final de l'editor"@ca .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/version/scheme> .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#prefLabel> "prueba de galera"@es .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#altLabel> "пробни отисак"@sr-cyrl .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/version/scheme> .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#altLabel> "одобрена"@ru .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/version/scheme> .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#prefLabel> "допуњена верзија"@sr-cyrl .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#prefLabel> "probna kopija"@sr .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#altLabel> "corrected version of record"@en .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#prefLabel> "著者オリジナル版"@ja .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#prefLabel> "на рассмотрении на предмет публикации"@ru .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eserin geliştirilmiş versiyonu"@tr .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/version/scheme> .
+<http://purl.org/coar/version/scheme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://purl.org/coar/version/c_be7fb7dd8ff6fe43> .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#definition> "The version of a resource that has been accepted for publication. A second party takes permanent responsibility for the resource. Content and layout follow publisher’s submission requirements.\n(adapted from NISO-JAV, https://www.niso.org/publications/niso-rp-8-2008-jav)"@en .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#altLabel> "versió desconeguda"@ca .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#prefLabel> "査読版"@ja .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#altLabel> "preprint version"@en .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#prefLabel> "расширенная версия"@ru .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#altLabel> "одобрено"@ru .
+<http://purl.org/coar/version/scheme> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#prefLabel> "versión original del autor"@es .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#prefLabel> "Yayına kabul edilmiş versiyon"@tr .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#altLabel> "aktualisierte Version"@de .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#prefLabel> "versión publicada"@es .
+<http://purl.org/coar/version/scheme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://purl.org/coar/version/c_71e4c1898caa6e32> .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#prefLabel> "versió sotmesa a revisió"@ca .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#altLabel> "preprint"@es .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#prefLabel> "version originale"@fr .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/version/scheme> .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#altLabel> "одобренная"@ru .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#prefLabel> "erweiterte Version"@de .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#prefLabel> "AM"@en .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#prefLabel> "korigovana verzija"@sr .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#prefLabel> "версия публикации"@ru .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#prefLabel> "nerecenziranа verzija"@sr .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#altLabel> "versió final de l'autor"@ca .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#altLabel> "postprint"@es .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#prefLabel> "versión mejorada"@es .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#altLabel> "version éditée"@fr .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/version/scheme> .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#prefLabel> "autorski original"@sr .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#editorialNote> "Chinese translations added July 2022"@en .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#prefLabel> "EVoR"@en .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#definition> "Not Applicable (or Unknown)"@en .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#altLabel> "version finale"@fr .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#altLabel> "postprint"@fr .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#prefLabel> "geaccepteerde versie"@nl .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#altLabel> "versión aceptada para publicar"@es .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#prefLabel> "未定义稿件"@zh .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#altLabel> "versió acceptada"@ca .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#altLabel> "versión final del editor"@es .
+<http://purl.org/coar/version/scheme> <http://purl.org/dc/terms/modified> "2022-09-29T10:57:46+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#prefLabel> "Yayıncı versiyonu"@tr .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#altLabel> "编辑校订稿、网络优先发布稿"@zh .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#prefLabel> "prova d'impremta"@ca .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#prefLabel> "käsikirjoitus"@fi .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#prefLabel> "материал принятый к публикации"@ru .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#altLabel> "submitted version"@en .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#altLabel> "draft"@en .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#altLabel> "Yayıncı tarafından düzenlenmiş versiyon"@tr .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#altLabel> "одобренные"@ru .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/version/scheme> .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#prefLabel> "bozza"@it .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#prefLabel> "訂正版"@ja .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#altLabel> "рецензирана верзија"@sr-cyrl .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#prefLabel> "пробна копија"@sr-cyrl .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#editorialNote> "Chinese translations added July 2022"@en .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#altLabel> "versió no avaluada per experts"@ca .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/version/scheme> .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#prefLabel> "авторский оригинал"@ru .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#prefLabel> "objavljena verzija"@sr .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#prefLabel> "最终审定稿"@zh .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#prefLabel> "исправленная версия"@ru .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#altLabel> "originale Verlagspublikation"@de .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#altLabel> "esborrany"@ca .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#prefLabel> "Autorenversion"@de .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#altLabel> "versió publicada corregida"@ca .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#prefLabel> "versió publicada"@ca .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#prefLabel> "keine Angabe"@de .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#altLabel> "otros"@es .
+<http://purl.org/coar/version/scheme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://purl.org/coar/version/c_b1a7d7d4d402bcce> .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#altLabel> "принятая к публикации рукопись"@ru .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/version/scheme> .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#altLabel> "статья принятая к публикации"@ru .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#prefLabel> "versione originale dell'autore"@it .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#prefLabel> "Uygulanabilir değil"@tr .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#altLabel> "korjausvedos"@fi .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#prefLabel> "versione accettata per la pubblicazione"@it .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#altLabel> "reprint"@fr .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#prefLabel> "коригована верзија"@sr-cyrl .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#prefLabel> "预印本稿"@zh .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#altLabel> "prépublication"@fr .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#altLabel> "galerada"@ca .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#prefLabel> "no aplicable"@ca .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#prefLabel> "versión corregida"@es .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#prefLabel> "ingediende versie"@nl .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#prefLabel> "Erstpublikation"@de .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#prefLabel> "作者修订稿"@zh .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#altLabel> "borrador"@es .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#prefLabel> "nije primenljivo (ili informacija nije dostupna)"@sr .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#altLabel> "论文二次审定稿、论文审定稿"@zh .
+<http://purl.org/coar/version/scheme> <http://www.w3.org/2000/01/rdf-schema#label> "Version Types" .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#altLabel> "versión enviada al editor"@es .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#inScheme> <http://purl.org/coar/version/scheme> .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#altLabel> "première version"@fr .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eserin düzeltilmiş versiyonu"@tr .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#prefLabel> "versione corretta"@it .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#altLabel> "version amendée"@fr .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#prefLabel> "適用外"@ja .
+<http://purl.org/coar/version/c_be7fb7dd8ff6fe43> <http://www.w3.org/2004/02/skos/core#prefLabel> "non applicabile"@it .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#altLabel> "versió original de l'autor"@ca .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#altLabel> "同行评审反馈修订稿"@zh .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#prefLabel> "version corrigée"@fr .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#definition> "Any version of a resource that is considered by the author to be of sufficient quality to be submitted for formal peer review by a second party. The author accepts full responsibility for the resource . May have a version number or date stamp. Content and layout as set out by the author.\n(adapted from NISO-JAV, https://www.niso.org/publications/niso-rp-8-2008-jav)"@en .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#prefLabel> "versione pubblicata"@it .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#prefLabel> "Korrekturfahne"@de .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#altLabel> "增补稿、更新版、 追加增订版"@zh .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#prefLabel> "julkaisukelpoinen versio"@fi .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#altLabel> "коначна објављена верзија"@sr-cyrl .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#altLabel> "versión no evaluada por pares"@es .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#altLabel> "Post-Print"@de .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#altLabel> "proof"@en .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#altLabel> "versió millorada"@ca .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#altLabel> "version of record"@en .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#definition> "Any version of a resource that is under formal review managed by a socially recognized publishing entity. The entity recognizes its responsibility to provide objective expert review and feedback to the author, and, ultimately, to pass judgment on the fitness of the resource for publication with an “accept” or “reject” decision. May have a version number or date stamp. Content and layout follow publisher’s submission requirements.\n(adapted from NISO-JAV, https://www.niso.org/publications/niso-rp-8-2008-jav)"@en .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#altLabel> "出版社受理稿、后印本稿"@zh .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#altLabel> "версия данных"@ru .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#altLabel> "manuscrito aceptado"@es .
+<http://purl.org/coar/version/c_ab4af688f83e57aa> <http://www.w3.org/2004/02/skos/core#prefLabel> "作者投审稿"@zh .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#prefLabel> "ауторски оригинал"@sr-cyrl .
+<http://purl.org/coar/version/c_dc82b40f9837b551> <http://www.w3.org/2004/02/skos/core#prefLabel> "versione revisionata"@it .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#altLabel> "gecorrigeerde versie"@nl .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#altLabel> "нерецензирани рукопис"@sr-cyrl .
+<http://purl.org/coar/version/c_71e4c1898caa6e32> <http://www.w3.org/2004/02/skos/core#prefLabel> "нерецензирана верзија"@sr-cyrl .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#altLabel> "publisher version"@en .
+<http://purl.org/coar/version/c_b1a7d7d4d402bcce> <http://www.w3.org/2004/02/skos/core#altLabel> "manuscrit"@ca .
+<http://purl.org/coar/version/c_e19f295774971610> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://purl.org/coar/version/scheme> .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#definition> "A fixed version of a resource that has been made available by any organization that acts as a publisher by formally and exclusively declaring the resource “published”. This includes any “early release” resource that is formally identified as being published even before the compilation of a volume issue and assignment of associated metadata, as long as it is citable via some permanent identifier(s). This does not include any “early release” resource that has not yet been “fixed” by processes that are still to be applied, such as copy-editing, proof corrections, layout, and typesetting.\n(adapted from NISO-JAV, https://www.niso.org/publications/niso-rp-8-2008-jav)"@en .
+<http://purl.org/coar/version/c_970fb48d4fbd8a85> <http://www.w3.org/2004/02/skos/core#prefLabel> "VoR"@en .
+<http://purl.org/coar/version/scheme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://purl.org/coar/version/c_dc82b40f9837b551> .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#altLabel> "oikovedos"@fi .
+<http://purl.org/coar/version/c_fa2ee174bc00049f> <http://www.w3.org/2004/02/skos/core#editorialNote> "Chinese translations added July 2022"@en .
+<http://purl.org/coar/version/scheme> <http://purl.org/dc/terms/title> "Version Types" .
+<http://purl.org/coar/version/scheme> <http://purl.org/dc/terms/description> "The Version Type vocabulary defines concepts to declare the version of a resource. Multilingual labels regard regional distinctions in language and term. The concepts are adopted from the [Journal Article Versions (JAV): Recommendations of the NISO/ALPSP JAV Technical Working Group](https://www.niso.org/publications/niso-rp-8-2008-jav)" .
+<http://purl.org/coar/version/scheme> <http://purl.org/dc/terms/creator> "Alberto Apollaro" .
+<http://purl.org/coar/version/scheme> <http://purl.org/dc/terms/creator> "Sophie Aubin" .
+<http://purl.org/coar/version/scheme> <http://purl.org/dc/terms/creator> "Paola Azrilevich" .
+<http://purl.org/coar/version/scheme> <http://purl.org/dc/terms/creator> "Isabel Bernal" .
+<http://purl.org/coar/version/scheme> <http://purl.org/dc/terms/creator> "Dan Liu" .
+<http://purl.org/coar/version/scheme> <http://purl.org/dc/terms/creator> "Ilaria Fava" .
+<http://purl.org/coar/version/scheme> <http://purl.org/dc/terms/creator> "Dom Fripp" .
+<http://purl.org/coar/version/scheme> <http://purl.org/dc/terms/creator> "Gültekin Gürdal" .
+<http://purl.org/coar/version/scheme> <http://purl.org/dc/terms/creator> "Sawsan Habre" .
+<http://purl.org/coar/version/scheme> <http://purl.org/dc/terms/creator> "Juha Hakala" .
+<http://purl.org/coar/version/scheme> <http://purl.org/dc/terms/creator> "Ilkay Holt" .
+<http://purl.org/coar/version/scheme> <http://purl.org/dc/terms/creator> "Nie Hua" .
+<http://purl.org/coar/version/scheme> <http://purl.org/dc/terms/creator> "Hilary Jones" .
+<http://purl.org/coar/version/scheme> <http://purl.org/dc/terms/creator> "Tomoko Kataoka" .
+<http://purl.org/coar/version/scheme> <http://purl.org/dc/terms/creator> "Laurence Le Borgne" .
+<http://purl.org/coar/version/scheme> <http://purl.org/dc/terms/creator> "Ku (Alan) Liping" .
+<http://purl.org/coar/version/scheme> <http://purl.org/dc/terms/creator> "Pedro Príncipe" .
+<http://purl.org/coar/version/scheme> <http://purl.org/dc/terms/creator> "Jochen Schirrwagen" .
+<http://purl.org/coar/version/scheme> <http://purl.org/dc/terms/creator> "Milica Sevkusic" .
+<http://purl.org/coar/version/scheme> <http://purl.org/dc/terms/creator> "Tomoya Shiota" .
+<http://purl.org/coar/version/scheme> <http://purl.org/dc/terms/creator> "Iryna Solodovnik" .
+<http://purl.org/coar/version/scheme> <http://purl.org/dc/terms/creator> "Wilko Steinhoff" .
+<http://purl.org/coar/version/scheme> <http://purl.org/dc/terms/creator> "Nathalie Vedovotto" .
+<http://purl.org/coar/version/scheme> <http://purl.org/dc/terms/contributor> "COAR Controlled Vocabularies Interest Group" .
