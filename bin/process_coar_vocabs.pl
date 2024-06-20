@@ -65,6 +65,8 @@ use warnings;
 use Getopt::Long;
 use Pod::Usage;
 
+use POSIX qw( strftime );
+
 use File::Basename;
 use File::Path qw/make_path/;
 use File::Temp;
@@ -348,7 +350,12 @@ sub process_skos
 		print "Generating $lang\n";
 
 		my $doc = create_phrase_document();
-		add_comment( $doc, "COAR vocabulary modified on " . get_schema_modified_date( $skos ) );
+		add_comment( $doc, 
+			"COAR vocabulary modified on: " . 
+			get_schema_modified_date( $skos ) . 
+			"\n    This phrase file was generated on " .
+			strftime( '%Y-%m-%d', localtime )
+		);
 
 		foreach my $p ( keys $skos->{LANGS}->{$lang} )
 		{
@@ -419,14 +426,11 @@ sub get_schema_modified_date
 {
 	my( $skos ) = @_;
 
-	#if( exists $skos->{'http://purl.org/coar/access_right/scheme'}->{'http://purl.org/dc/terms/modified'} )
-	#{
-	#	return $skos->{'http://purl.org/coar/access_right/scheme'}->{'http://purl.org/dc/terms/modified'}->{DEFAULT};
-	#}
 	if( exists $skos->{LANGS}->{DEFAULT}->{'http://purl.org/coar/access_right/scheme'}->{'http://purl.org/dc/terms/modified'} )
 	{
 		return $skos->{LANGS}->{DEFAULT}->{'http://purl.org/coar/access_right/scheme'}->{'http://purl.org/dc/terms/modified'};
 	}
+	return "UNKNOWN";
 }
 
 sub create_phrase_document
