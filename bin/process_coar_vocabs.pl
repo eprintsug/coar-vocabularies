@@ -97,6 +97,8 @@ my %vocabs = (
 # and shouldn't exist in the phrase files either.
 my @subjects_to_exclude = qw(
 	http://purl.org/coar/access_right/scheme
+	http://purl.org/coar/resource_type/scheme
+	http://purl.org/coar/version/scheme
 );
 
 
