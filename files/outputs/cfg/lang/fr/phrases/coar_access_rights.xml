@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE phrases SYSTEM "entities.dtd">
+<epp:phrases xmlns="http://www.w3.org/1999/xhtml" xmlns:epp="http://eprints.org/ep3/phrase" xmlns:epc="http://eprints.org/ep3/control">
+  <!--COAR vocabulary modified on 2022-09-29T10:57:25+00:00-->
+  <epp:phrase id="coar_access_rights_typename_http://purl.org/coar/access_right/c_abf2">libre accès</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/access_right/c_abf2:
+	accès libre
+	open access
+	accès ouvert-->
+  <epp:phrase id="coar_access_rights_typename_http://purl.org/coar/access_right/c_f1cf">sous embargo</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/access_right/c_f1cf:
+	accès sous embargo
+	libre accès après durée d'embargo
+	accès libre retardé
+	libre accès différé-->
+  <epp:phrase id="coar_access_rights_typename_http://purl.org/coar/access_right/c_14cb">accès aux seules métadonnées</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/access_right/c_14cb:
+	accès uniquement aux métadonnées
+	libre accès aux seules métadonnées
+	accès limité aux métadonnées
+	accès restreint aux métadonnées-->
+  <epp:phrase id="coar_access_rights_typename_http://purl.org/coar/access_right/c_16ec">accès réservé</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/access_right/c_16ec:
+	accès restreint
+	accès sous condition
+	accès limité
+	accès aux abonnés-->
+</epp:phrases>

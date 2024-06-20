@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE phrases SYSTEM "entities.dtd">
+<epp:phrases xmlns="http://www.w3.org/1999/xhtml" xmlns:epp="http://eprints.org/ep3/phrase" xmlns:epc="http://eprints.org/ep3/control">
+  <!--COAR vocabulary modified on -->
+  <epp:phrase id="coar_version_types_typename_http://purl.org/coar/version/c_ab4af688f83e57aa">作者投审稿</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/version/c_ab4af688f83e57aa: 出版社受理稿、后印本稿-->
+  <epp:phrase id="coar_version_types_typename_http://purl.org/coar/version/c_71e4c1898caa6e32">预印本稿</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/version/c_71e4c1898caa6e32: 正式提交稿、出版前送审稿、出版社编修稿、审读稿-->
+  <epp:phrase id="coar_version_types_typename_http://purl.org/coar/version/c_fa2ee174bc00049f">出版社版式稿</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/version/c_fa2ee174bc00049f: 编辑校订稿、网络优先发布稿-->
+  <epp:phrase id="coar_version_types_typename_http://purl.org/coar/version/c_e19f295774971610">作者修订稿</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/version/c_e19f295774971610: 同行评审反馈修订稿-->
+  <epp:phrase id="coar_version_types_typename_http://purl.org/coar/version/c_dc82b40f9837b551">最终审定稿</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/version/c_dc82b40f9837b551: 增补稿、更新版、 追加增订版-->
+  <epp:phrase id="coar_version_types_typename_http://purl.org/coar/version/c_b1a7d7d4d402bcce">作者手稿</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/version/c_b1a7d7d4d402bcce: 论文二次审定稿、论文审定稿-->
+  <epp:phrase id="coar_version_types_typename_http://purl.org/coar/version/c_be7fb7dd8ff6fe43">未定义稿件</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/version/c_be7fb7dd8ff6fe43: 未录用稿、待处理稿、不涉及、其它-->
+  <epp:phrase id="coar_version_types_typename_http://purl.org/coar/version/c_970fb48d4fbd8a85">出版稿</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/version/c_970fb48d4fbd8a85: 论文处理稿、论文编修记录、论文永久保存稿-->
+</epp:phrases>

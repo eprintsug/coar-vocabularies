@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE phrases SYSTEM "entities.dtd">
+<epp:phrases xmlns="http://www.w3.org/1999/xhtml" xmlns:epp="http://eprints.org/ep3/phrase" xmlns:epc="http://eprints.org/ep3/control">
+  <!--COAR vocabulary modified on -->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cw">нотни запис</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_e059">наставни материјал</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_0857">писмо</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_ecc8">статична слика</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_ecc8: статична визуелна представа-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/QH80-2R4E">изворни софтверски код</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_12cc">картографска грађа</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_12cc: картографски материјал-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/Z907-YMBB">патентирана сорта</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_7bab">чланак о рачунарском програму</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/resource_type/c_7bab:
+	опис софтвера
+	чланак о софтверу
+	опис рачунарског програма-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_7877">клиничка студија</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_998f">новински чланак</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_998f: чланак у новинама-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/FXF3-D3G7">компилација података</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/FXF3-D3G7: компилирани подаци-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/MW8G-3CR8">патентирани софтвер</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/MW8G-3CR8: софтверски патент-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_beb9">чланак о скупу података</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_beb9: опис скупа података-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/63NG-B465">експериментални подаци</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18ww">интерни извештај</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_8544">предавање</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_efa0">приказ</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/resource_type/c_efa0:
+	критички приказ
+	рецензија-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/542X-3S04">дизајн</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/D97F-VB57">коментар</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_e9a0">интерактивна грађа</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_e9a0: интерактивни ресурс-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_15cd">патент</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/H41Y-FW7B">лабораторијске белешке</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_baaf">предлог истраживачког пројекта</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_2cd9">информативна ревија</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/resource_type/c_2cd9:
+	часопис
+	магазин-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/SB3Y-W4EH">патентна пријава</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_816b">препринт</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_dcae04bc">прегледни чланак</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/resource_type/c_dcae04bc:
+	прегледни рад
+	прегледни научни чланак-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cc">звучни запис</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/YZ1N-ZFT9">протокол истраживања</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_2659">периодична публикација</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/resource_type/c_2659:
+	серијска публикација
+	периодика-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_2df8fbb1">научни чланак</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/resource_type/c_2df8fbb1:
+	оригинални научни чланак
+	оригинални научни рад-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cd">музичка композиција</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_b239">уводник</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_b239: реч уредника-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/CQMR-7K63">снимљени подаци</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_7ad9">веб-сајт</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/resource_type/c_7ad9:
+	веб-страница
+	интернет презентација-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_6670">постер са конференције</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/H6QP-SC1X">заштитни знак</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/BW7T-YM2G">схема конфигурације</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18wq">друге врсте извештаја</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_393c">радни процес</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_393c: процедура-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/QX5C-AR31">остале периодичне публикације</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/QX5C-AR31: остала периодика-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cf">текст</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_bdcc">мастер/магистарска теза</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_bdcc: мастер/магистарски рад-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_2fe3">новине</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_8042">радни документ</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_c513">слика</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_c513: визуелни приказ-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_ab20">план управљања подацима</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/2H0M-X761">геопросторни подаци</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/2H0M-X761: просторни подаци-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18op">резултат пројекта</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_12ce">видео</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_12ce: видео запис-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/W2XT-7017">симулациони подаци</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/W2XT-7017: подаци добијени симулацијом-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/GPQ7-G5VE">заштићена биљна сорта</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/A8F1-NPV9">геномски подаци</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_186u">анализа политике</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_7acd">erratum</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/resource_type/c_7acd:
+	corrigendum
+	исправка-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_1843">остало</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/H9BQ-739P">рецензија</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/H9BQ-739P: научна или стручна рецензија-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/FF4C-28RK">подаци прикупљени посматрањем</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_db06">докторска дисертација</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_ba08">приказ књиге</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/6NC7-GK9S">транскрипт</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/NHD0-W6SY">анкетни подаци</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/C53B-JCY5">патент за дизајн</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/ACF7-8YT9">агрегирани подаци</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_5ce6">рачунарски програм</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_5ce6: софтвер-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_c950">софтвер за науку</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/resource_type/c_c950:
+	научни софтвер
+	истраживачки софтвер-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/R60J-J5BD">презентација са конференције</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18ws">извештај о истраживању</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_c94f">конференцијски прилог</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_545b">писмо уреднику</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/resource_type/c_545b:
+	писмо уредништву
+	писмо редакцији-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_6501">чланак у часопису</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/resource_type/c_6501:
+	рад у часопису
+	научни чланак-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_93fc">извештај</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/AM6W-6QAW">кодирани подаци</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_f744">зборник саопштења са конференције</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/resource_type/c_f744:
+	акта конгреса
+	зборник радова са конференције-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_5794">саопштење са конференције</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/resource_type/c_5794:
+	рад са конференције
+	објављено саопштење са конференције-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/9DKX-KSAF">мали патент</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_cb28">подаци из клиничких испитивања</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_cb28: подаци из клиничких студија-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/JBNF-DYAD">индустријски дизајн</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_0040">рукопис</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_0040: рукописна грађа-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_8a7e">покретне слике</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_6947">текст на блогу</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_3248">поглавље у књизи</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_3248: поглавље у монографији-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_0640">часопис</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_0640: научни часопис-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_71bd">техничка документација</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_ddb1">скуп података</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cp">необјављено саопштење са конференције</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18gh">технички извештај</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_7a1f">дипломски рад</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_86bc">библиографија</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18co">необјављен постер са конференције</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_46ec">теза</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_46ec: дисертација-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_1162">анотација</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/resource_type/c_1162:
+	коментар
+	белешка-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_12cd">мапа</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_12cd: географска карта-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/DD58-GFSX">подаци мерења и испитивања</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_2f33">књига</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_2f33: монографија-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18wz">меморандум</epp:phrase>
+</epp:phrases>
