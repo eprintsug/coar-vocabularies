@@ -335,7 +335,7 @@ sub process_skos
 	# get rid of schema (and possibly other unwanted subjects)
 	my %excl;
 	@excl{@subjects_to_exclude} = undef;
-	@namedset_opts = grep { not exists $excl{$_} } @namedset_opts;	
+	@namedset_opts = sort grep { not exists $excl{$_} } @namedset_opts;	
 
 	save_namedset_file( "$output_dir/cfg/namedsets/$namedset", \@namedset_opts );
 
@@ -357,7 +357,7 @@ sub process_skos
 			strftime( '%Y-%m-%d', localtime )
 		);
 
-		foreach my $p ( keys $skos->{LANGS}->{$lang} )
+		foreach my $p ( sort keys $skos->{LANGS}->{$lang} )
 		{
 			print "Processing $p\n" if $verbose;
 
