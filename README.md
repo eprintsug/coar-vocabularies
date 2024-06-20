@@ -41,11 +41,12 @@ An empty line delineates the good/bad sections, except for the creator/title/des
 Currently included in this repo are the original versions from the COAR website - saved in the `files/sources` directory, and some cleaned-up versions in `files/sources/clean`.
 
 To clean the files in `vim`:
-- search for an empty line `/^$`<kbd>enter<kbd> and mark it e.g. `ma`<kbd>enter<kbd>
-- go to the bottom of the file `:$`<kbd>enter<kbd>
-- Search for lines that don't match 'scheme' `/^\(.*scheme\)\@!.*$`<kbd>enter<kbd>. Search backwards using <kbd>N</kbd> 
-- from the last line that doesn't match 'scheme', type `d'a`<kbd>enter<kbd>. This should remove all the lines that are badly encoded.
-- The creators may have incorrectly encoded characters in them. To search for these, type `/[^\d0-\d127]`<kbd>enter<kbd>. This will find non-ASCII characters.
+- search for an empty line `/^$` <kbd>enter</kbd> and mark it e.g. `ma` <kbd>enter</kbd>
+- go to the bottom of the file `:$` <kbd>enter</kbd>
+- Search for lines that don't match 'scheme' `/^\(.*scheme\)\@!.*$` <kbd>enter</kbd>. Search backwards using <kbd>N</kbd> 
+- from the last line that doesn't match 'scheme', type `d'a` <kbd>enter</kbd>. This should remove all the lines that are badly encoded.
+- The creators may have incorrectly encoded characters in them. To search for these, type `/[^\d0-\d127]` <kbd>enter</kbd>. This will find non-ASCII characters.
 - ... I haven't found a sensible way to replace all the matched characters with their respctive `\u[code]`. The manual process is:  
-move the cursor to the left of the character. Type `ga`<kbd>enter<kbd>. The hex code for the character should be displayed in the status bar. Insert '\u' followed by the uppercase representation of the code.
+move the cursor to the left of the character. Type `ga` <kbd>enter</kbd> . The hex code for the character should be displayed in the status bar. Insert '\u' followed by the uppercase representation of the code.
 
+The vocabulary creators aren't actually included in the generated phrase files, but having a complete 'fixed' version of the file hopefully means this will all work when the online versions are resolved.
