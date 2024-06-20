@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE phrases SYSTEM "entities.dtd">
 <epp:phrases xmlns="http://www.w3.org/1999/xhtml" xmlns:epp="http://eprints.org/ep3/phrase" xmlns:epc="http://eprints.org/ep3/control">
-  <!--COAR vocabulary modified on -->
+  <!--COAR vocabulary modified on: UNKNOWN
+    This phrase file was generated on 2024-06-20-->
   <epp:phrase id="coar_version_types_typename_http://purl.org/coar/version/c_ab4af688f83e57aa">versione accettata per la pubblicazione</epp:phrase>
   <epp:phrase id="coar_version_types_typename_http://purl.org/coar/version/c_71e4c1898caa6e32">versione sottoposta a revisione</epp:phrase>
   <epp:phrase id="coar_version_types_typename_http://purl.org/coar/version/c_fa2ee174bc00049f">bozza</epp:phrase>
