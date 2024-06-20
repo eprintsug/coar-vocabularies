@@ -22,6 +22,12 @@ I'm still working out the best way to deploy these to a repository. The namedset
 
 One option is to cache the lang files in a 'sources' directory and have an EPM script copy relevant ones into the appropriate location.
 
+Currently running:
+
+`bin/process_coar_vocabs.pl --cached-file-dir=files/sources/clean`
+
+will output files into `files/output/...`
+
 ### References
 
 - A COAR plugin already exists for EPrints which maps some values, and contains a lot of stuff in a config file: https://bazaar.eprints.org/422/
@@ -32,7 +38,7 @@ One option is to cache the lang files in a 'sources' directory and have an EPM s
 Currently there is an issue with the online versions of the N-Triples files where most of the data is repeated, and the second instances are not correctly encoded.
 
 An empty line delineates the good/bad sections, except for the creator/title/description of the vocab that appear at the end, which are not duplicated, but are incorrectly encoded.
-Currently included in this repo are the original versions from the COAR website - saved in the `files` directory, and some cleaned-up versions in `files/clean`.
+Currently included in this repo are the original versions from the COAR website - saved in the `files/sources` directory, and some cleaned-up versions in `files/sources/clean`.
 
 To clean the files in `vim`:
 - search for an empty line `/^$`<kbd>enter<kbd> and mark it e.g. `ma`<kbd>enter<kbd>
