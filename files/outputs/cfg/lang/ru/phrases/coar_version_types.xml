@@ -3,17 +3,26 @@
 <epp:phrases xmlns="http://www.w3.org/1999/xhtml" xmlns:epp="http://eprints.org/ep3/phrase" xmlns:epc="http://eprints.org/ep3/control">
   <!--COAR vocabulary modified on: UNKNOWN
     This phrase file was generated on 2024-06-20-->
+  <epp:phrase id="coar_version_types_typename_http://purl.org/coar/version/c_71e4c1898caa6e32">на рассмотрении на предмет публикации</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/version/c_71e4c1898caa6e32:
+	на рассмотрении в редакции
+	рукопись принятая к рассмотрению
+	на рассмотрении журнала-->
+  <epp:phrase id="coar_version_types_typename_http://purl.org/coar/version/c_970fb48d4fbd8a85">версия публикации</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/version/c_970fb48d4fbd8a85:
+	версия записи
+	версия данных-->
   <epp:phrase id="coar_version_types_typename_http://purl.org/coar/version/c_ab4af688f83e57aa">материал принятый к публикации</epp:phrase>
   <!--AltLabels for http://purl.org/coar/version/c_ab4af688f83e57aa:
 	рукопись принятая к публикации
 	материалы принятые к публикации
 	принятая к публикации рукопись
 	статья принятая к публикации-->
-  <epp:phrase id="coar_version_types_typename_http://purl.org/coar/version/c_71e4c1898caa6e32">на рассмотрении на предмет публикации</epp:phrase>
-  <!--AltLabels for http://purl.org/coar/version/c_71e4c1898caa6e32:
-	на рассмотрении в редакции
-	рукопись принятая к рассмотрению
-	на рассмотрении журнала-->
+  <epp:phrase id="coar_version_types_typename_http://purl.org/coar/version/c_b1a7d7d4d402bcce">авторский оригинал</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/version/c_b1a7d7d4d402bcce: оригинал-->
+  <epp:phrase id="coar_version_types_typename_http://purl.org/coar/version/c_be7fb7dd8ff6fe43">не применимо (или неизвестно)</epp:phrase>
+  <epp:phrase id="coar_version_types_typename_http://purl.org/coar/version/c_dc82b40f9837b551">расширенная версия</epp:phrase>
+  <epp:phrase id="coar_version_types_typename_http://purl.org/coar/version/c_e19f295774971610">исправленная версия</epp:phrase>
   <epp:phrase id="coar_version_types_typename_http://purl.org/coar/version/c_fa2ee174bc00049f">одобрен</epp:phrase>
   <!--AltLabels for http://purl.org/coar/version/c_fa2ee174bc00049f:
 	одобренный
@@ -22,13 +31,4 @@
 	одобрено
 	одобренная
 	одобренные-->
-  <epp:phrase id="coar_version_types_typename_http://purl.org/coar/version/c_e19f295774971610">исправленная версия</epp:phrase>
-  <epp:phrase id="coar_version_types_typename_http://purl.org/coar/version/c_dc82b40f9837b551">расширенная версия</epp:phrase>
-  <epp:phrase id="coar_version_types_typename_http://purl.org/coar/version/c_b1a7d7d4d402bcce">авторский оригинал</epp:phrase>
-  <!--AltLabel for http://purl.org/coar/version/c_b1a7d7d4d402bcce: оригинал-->
-  <epp:phrase id="coar_version_types_typename_http://purl.org/coar/version/c_be7fb7dd8ff6fe43">не применимо (или неизвестно)</epp:phrase>
-  <epp:phrase id="coar_version_types_typename_http://purl.org/coar/version/c_970fb48d4fbd8a85">версия публикации</epp:phrase>
-  <!--AltLabels for http://purl.org/coar/version/c_970fb48d4fbd8a85:
-	версия записи
-	версия данных-->
 </epp:phrases>

@@ -3,108 +3,108 @@
 <epp:phrases xmlns="http://www.w3.org/1999/xhtml" xmlns:epp="http://eprints.org/ep3/phrase" xmlns:epc="http://eprints.org/ep3/control">
   <!--COAR vocabulary modified on: UNKNOWN
     This phrase file was generated on 2024-06-20-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cw">нотная запись</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_e059">учебный объект</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_ecc8">неподвижное изображение</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_0857">письмо</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/QH80-2R4E">исходный код</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_12cc">картографический материал</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_7bab">статья по программному обеспечению</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/Z907-YMBB">патент на растение</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_7877">клиническое исследование</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_998f">газетная статья</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/FXF3-D3G7">компилированные данные</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/MW8G-3CR8">патент на программное обеспечение</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_beb9">статья с цифровыми данными</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/63NG-B465">экспериментальные данные</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_8544">лекция</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_efa0">рецензия</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/2H0M-X761">геопространственные данные</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/542X-3S04">дизайн</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/D97F-VB57">комментарий</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_15cd">патент</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_e9a0">интерактивный ресурс</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_baaf">исследовательское предложение</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/H41Y-FW7B">лабораторный блокнот</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_2cd9">периодическое печатное издание</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/SB3Y-W4EH">Заявка РСТ</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_816b">препринт</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_dcae04bc">обзорная статья</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/YZ1N-ZFT9">протокол исследования</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cc">звук</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_2df8fbb1">научная статья</epp:phrase>
-  <!--AltLabels for http://purl.org/coar/resource_type/c_2df8fbb1:
-	публикация в научном журнале
-	исследовательская статья-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_b239">редакционная</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cd">музыкальное произведение</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/CQMR-7K63">записанные данные</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_7ad9">вебсайт</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_6670">стендовый доклад</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/63NG-B465">экспериментальные данные</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/6NC7-GK9S">транскрипция</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/9DKX-KSAF">полезная модель</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/A8F1-NPV9">геномные данные</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/ACF7-8YT9">агрегированные данные</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/AM6W-6QAW">кодированные данные</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/BW7T-YM2G">компоновка</epp:phrase>
   <!--AltLabel for http://purl.org/coar/resource_type/BW7T-YM2G: макетирование-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/H6QP-SC1X">торговая марка</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_393c">рабочий процесс</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/QX5C-AR31">другое периодическое издание</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cf">текст</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_bdcc">магистерская диссертация</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_2fe3">газета</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_8042">рабочий документ</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_c513">изображение</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_ab20">план управления данными</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/2H0M-X761">геопространственные данные</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18op">результат проекта</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_12ce">видео</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/W2XT-7017">данные моделирования</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/GPQ7-G5VE">охрана новых сортов растений</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/A8F1-NPV9">геномные данные</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_7acd">исправление</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_186u">отчет о политике</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_1843">другое</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/H9BQ-739P">экспертная оценка</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/FF4C-28RK">данные наблюдений</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_db06">докторская диссертация</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/6NC7-GK9S">транскрипция</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_ba08">рецензия на книгу</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/NHD0-W6SY">данные опроса</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/C53B-JCY5">патент на образец</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/ACF7-8YT9">агрегированные данные</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_5ce6">программное обеспечение</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_c950">исследовательское программное обеспечение</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/CQMR-7K63">записанные данные</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/D97F-VB57">комментарий</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/DD58-GFSX">данные измерений и испытаний</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/FF4C-28RK">данные наблюдений</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/FXF3-D3G7">компилированные данные</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/GPQ7-G5VE">охрана новых сортов растений</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/H41Y-FW7B">лабораторный блокнот</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/H6QP-SC1X">торговая марка</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/H9BQ-739P">экспертная оценка</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/JBNF-DYAD">промышленный дизайн</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/MW8G-3CR8">патент на программное обеспечение</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/NHD0-W6SY">данные опроса</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/QH80-2R4E">исходный код</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/QX5C-AR31">другое периодическое издание</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/R60J-J5BD">конференционная презентация</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18ws">исследовательский отчет</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_c94f">конференц-объект</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_545b">письмо редактору</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_6501">журнальная статья</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_93fc">отчет</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/AM6W-6QAW">кодированные данные</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_5794">конференционный доклад</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_f744">материалы конференций</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/9DKX-KSAF">полезная модель</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_cb28">данные клинических испытаний</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/SB3Y-W4EH">Заявка РСТ</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/W2XT-7017">данные моделирования</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/YZ1N-ZFT9">протокол исследования</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/Z907-YMBB">патент на растение</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_0040">рукопись</epp:phrase>
   <!--AltLabel for http://purl.org/coar/resource_type/c_0040: манускрипт-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/JBNF-DYAD">промышленный дизайн</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_8a7e">движущееся изображение</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_6947">пост</epp:phrase>
-  <!--AltLabel for http://purl.org/coar/resource_type/c_6947: пост в блоге-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_3248">часть книги</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_0640">журнал</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_71bd">техническая документация</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_ddb1">набор данных</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cp">конференционный доклад не включенный в материалы конференции</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18gh">технический отчет</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_7a1f">бакалаврская диссертация</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_86bc">библиография</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18co">стендовый доклад не включенный в материалы конференции</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_46ec">диссертация</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_0857">письмо</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_1162">аннотация</epp:phrase>
   <!--AltLabel for http://purl.org/coar/resource_type/c_1162: реферат-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_12cc">картографический материал</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_12cd">карта</epp:phrase>
   <!--AltLabels for http://purl.org/coar/resource_type/c_12cd:
 	чертёж
 	план
 	отображение-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_2f33">книга</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_12ce">видео</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_15cd">патент</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_1843">другое</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_186u">отчет о политике</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cc">звук</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cd">музыкальное произведение</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cf">текст</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18co">стендовый доклад не включенный в материалы конференции</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cp">конференционный доклад не включенный в материалы конференции</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cw">нотная запись</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18gh">технический отчет</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18op">результат проекта</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18ws">исследовательский отчет</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18wz">меморандум</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/DD58-GFSX">данные измерений и испытаний</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_2cd9">периодическое печатное издание</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_2df8fbb1">научная статья</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/resource_type/c_2df8fbb1:
+	публикация в научном журнале
+	исследовательская статья-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_2f33">книга</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_2fe3">газета</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_3248">часть книги</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_393c">рабочий процесс</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_46ec">диссертация</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_545b">письмо редактору</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_5794">конференционный доклад</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_5ce6">программное обеспечение</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_6501">журнальная статья</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_6670">стендовый доклад</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_6947">пост</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_6947: пост в блоге-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_71bd">техническая документация</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_7877">клиническое исследование</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_7a1f">бакалаврская диссертация</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_7acd">исправление</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_7ad9">вебсайт</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_7bab">статья по программному обеспечению</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_8042">рабочий документ</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_816b">препринт</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_8544">лекция</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_86bc">библиография</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_8a7e">движущееся изображение</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_93fc">отчет</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_998f">газетная статья</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_ab20">план управления данными</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_b239">редакционная</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_ba08">рецензия на книгу</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_baaf">исследовательское предложение</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_bdcc">магистерская диссертация</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_beb9">статья с цифровыми данными</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_c513">изображение</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_c94f">конференц-объект</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_c950">исследовательское программное обеспечение</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_cb28">данные клинических испытаний</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_db06">докторская диссертация</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_dcae04bc">обзорная статья</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_ddb1">набор данных</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_e059">учебный объект</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_e9a0">интерактивный ресурс</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_ecc8">неподвижное изображение</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_efa0">рецензия</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_f744">материалы конференций</epp:phrase>
 </epp:phrases>

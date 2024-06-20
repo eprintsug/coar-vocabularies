@@ -3,153 +3,153 @@
 <epp:phrases xmlns="http://www.w3.org/1999/xhtml" xmlns:epp="http://eprints.org/ep3/phrase" xmlns:epc="http://eprints.org/ep3/control">
   <!--COAR vocabulary modified on: UNKNOWN
     This phrase file was generated on 2024-06-20-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cw">musical notation</epp:phrase>
-  <!--AltLabel for http://purl.org/coar/resource_type/c_18cw: music notation-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_e059">learning object</epp:phrase>
-  <!--AltLabels for http://purl.org/coar/resource_type/c_e059:
-	open education resource
-	coursepack-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_ecc8">still image</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_0857">letter</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/QH80-2R4E">source code</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_12cc">cartographic material</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/Z907-YMBB">plant patent</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_7bab">software paper</epp:phrase>
-  <!--AltLabel for http://purl.org/coar/resource_type/c_7bab: software tool article-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_7877">clinical study</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_998f">newspaper article</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/FXF3-D3G7">compiled data</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/MW8G-3CR8">software patent</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_beb9">data paper</epp:phrase>
-  <!--AltLabel for http://purl.org/coar/resource_type/c_beb9: data descriptor-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/63NG-B465">experimental data</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_8544">lecture</epp:phrase>
-  <!--AltLabel for http://purl.org/coar/resource_type/c_8544: lectures-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18ww">internal report</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_efa0">review</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/2H0M-X761">geospatial data</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/542X-3S04">design</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18hj">report to funding agency</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/63NG-B465">experimental data</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/6NC7-GK9S">transcription</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/9DKX-KSAF">utility model</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/A8F1-NPV9">genomic data</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/ACF7-8YT9">aggregated data</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/AM6W-6QAW">encoded data</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/BW7T-YM2G">layout design</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/C53B-JCY5">design patent</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/CQMR-7K63">recorded data</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/D97F-VB57">commentary</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_e9a0">interactive resource</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/DD58-GFSX">measurement and test data</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/EHVM-H119">research data</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/FF4C-28RK">observational data</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/FXF3-D3G7">compiled data</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/GPQ7-G5VE">plant variety protection</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/H41Y-FW7B">laboratory notebook</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/H6QP-SC1X">trademark</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/H9BQ-739P">peer review</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/JBNF-DYAD">industrial design</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/MW8G-3CR8">software patent</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/NHD0-W6SY">survey data</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/QH80-2R4E">source code</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/QX5C-AR31">other periodical</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/R60J-J5BD">conference presentation</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/SB3Y-W4EH">PCT application</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/W2XT-7017">simulation data</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/YZ1N-ZFT9">research protocol</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/Z907-YMBB">plant patent</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_0040">manuscript</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_0640">journal</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_0857">letter</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_1162">annotation</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_1162: note to a legal judgment-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_12cc">cartographic material</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_12cd">map</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_12ce">video</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_15cd">patent</epp:phrase>
   <!--AltLabel for http://purl.org/coar/resource_type/c_15cd: patents-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_baaf">research proposal</epp:phrase>
-  <!--AltLabel for http://purl.org/coar/resource_type/c_baaf: researchProposal-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/H41Y-FW7B">laboratory notebook</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_2cd9">magazine</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/SB3Y-W4EH">PCT application</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_816b">preprint</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_dcae04bc">review article</epp:phrase>
-  <!--AltLabel for http://purl.org/coar/resource_type/c_dcae04bc: journal commentary-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/YZ1N-ZFT9">research protocol</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_1843">other</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_186u">policy report</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cc">sound</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_2659">periodical</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_2df8fbb1">research article</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_b239">editorial</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cd">musical composition</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/CQMR-7K63">recorded data</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_7ad9">website</epp:phrase>
-  <!--AltLabel for http://purl.org/coar/resource_type/c_7ad9: webpage-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_6670">conference poster</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_3e5a">contribution to journal</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/BW7T-YM2G">layout design</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/H6QP-SC1X">trademark</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cf">text</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18co">conference poster not in proceedings</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cp">conference paper not in proceedings</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_18cp: conferencepaper not in proceedings-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cw">musical notation</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_18cw: music notation-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18gh">technical report</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18hj">report to funding agency</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18op">project deliverable</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18wq">other type of report</epp:phrase>
   <!--AltLabels for http://purl.org/coar/resource_type/c_18wq:
 	guideline
 	laboratory material-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_393c">workflow</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/QX5C-AR31">other periodical</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cf">text</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_bdcc">master thesis</epp:phrase>
-  <!--AltLabel for http://purl.org/coar/resource_type/c_bdcc: master dissertation-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_8042">working paper</epp:phrase>
-  <!--AltLabels for http://purl.org/coar/resource_type/c_8042:
-	discussion paper
-	working or discussion paper
-	working papers-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_2fe3">newspaper</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_c513">image</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_ab20">data management plan</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/2H0M-X761">geospatial data</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/W2XT-7017">simulation data</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_12ce">video</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18op">project deliverable</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/A8F1-NPV9">genomic data</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/GPQ7-G5VE">plant variety protection</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_186u">policy report</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_7acd">corrigendum</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_1843">other</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/H9BQ-739P">peer review</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_ba1f">report part</epp:phrase>
-  <!--AltLabel for http://purl.org/coar/resource_type/c_ba1f: reportPart-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/FF4C-28RK">observational data</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_db06">doctoral thesis</epp:phrase>
-  <!--AltLabels for http://purl.org/coar/resource_type/c_db06:
-	dissertation
-	PhD Thesis-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_ba08">book review</epp:phrase>
-  <!--AltLabel for http://purl.org/coar/resource_type/c_ba08: book reviews-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/6NC7-GK9S">transcription</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/NHD0-W6SY">survey data</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/C53B-JCY5">design patent</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/ACF7-8YT9">aggregated data</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_5ce6">software</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_c950">research software</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18ws">research report</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/R60J-J5BD">conference presentation</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_c94f">conference output</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_545b">letter to the editor</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_6501">journal article</epp:phrase>
-  <!--AltLabels for http://purl.org/coar/resource_type/c_6501:
-	departmental bulletin paper
-	paper
-	journal articles
-	article-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_93fc">report</epp:phrase>
-  <!--AltLabels for http://purl.org/coar/resource_type/c_93fc:
-	reports
-	paper-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/AM6W-6QAW">encoded data</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_5794">conference paper</epp:phrase>
-  <!--AltLabel for http://purl.org/coar/resource_type/c_5794: conferencePaper-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_f744">conference proceedings</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/9DKX-KSAF">utility model</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_cb28">clinical trial data</epp:phrase>
-  <!--AltLabel for http://purl.org/coar/resource_type/c_cb28: randomized control trial-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/JBNF-DYAD">industrial design</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_0040">manuscript</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_8a7e">moving image</epp:phrase>
-  <!--AltLabel for http://purl.org/coar/resource_type/c_8a7e: audiovisual-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_6947">blog post</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_3248">book part</epp:phrase>
-  <!--AltLabels for http://purl.org/coar/resource_type/c_3248:
-	chapter
-	chapter in book
-	book chapter-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_0640">journal</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_71bd">technical documentation</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_ddb1">dataset</epp:phrase>
-  <!--AltLabel for http://purl.org/coar/resource_type/c_ddb1: data sets-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18gh">technical report</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cp">conference paper not in proceedings</epp:phrase>
-  <!--AltLabel for http://purl.org/coar/resource_type/c_18cp: conferencepaper not in proceedings-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_7a1f">bachelor thesis</epp:phrase>
-  <!--AltLabel for http://purl.org/coar/resource_type/c_7a1f: bachelor dissertation-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18ww">internal report</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18wz">memorandum</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_2659">periodical</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_26e4">interview</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_86bc">bibliography</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18co">conference poster not in proceedings</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_46ec">thesis</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/EHVM-H119">research data</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_1162">annotation</epp:phrase>
-  <!--AltLabel for http://purl.org/coar/resource_type/c_1162: note to a legal judgment-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_12cd">map</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/DD58-GFSX">measurement and test data</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_2cd9">magazine</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_2df8fbb1">research article</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_2f33">book</epp:phrase>
   <!--AltLabels for http://purl.org/coar/resource_type/c_2f33:
 	books
 	monograph
 	e-book
 	audiobook-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18wz">memorandum</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_2fe3">newspaper</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_3248">book part</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/resource_type/c_3248:
+	chapter
+	chapter in book
+	book chapter-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_393c">workflow</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_3e5a">contribution to journal</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_46ec">thesis</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_545b">letter to the editor</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_5794">conference paper</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_5794: conferencePaper-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_5ce6">software</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_6501">journal article</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/resource_type/c_6501:
+	departmental bulletin paper
+	paper
+	journal articles
+	article-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_6670">conference poster</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_6947">blog post</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_71bd">technical documentation</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_7877">clinical study</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_7a1f">bachelor thesis</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_7a1f: bachelor dissertation-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_7acd">corrigendum</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_7ad9">website</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_7ad9: webpage-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_7bab">software paper</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_7bab: software tool article-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_8042">working paper</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/resource_type/c_8042:
+	discussion paper
+	working or discussion paper
+	working papers-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_816b">preprint</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_8544">lecture</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_8544: lectures-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_86bc">bibliography</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_8a7e">moving image</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_8a7e: audiovisual-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_93fc">report</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/resource_type/c_93fc:
+	reports
+	paper-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_998f">newspaper article</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_ab20">data management plan</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_b239">editorial</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_ba08">book review</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_ba08: book reviews-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_ba1f">report part</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_ba1f: reportPart-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_baaf">research proposal</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_baaf: researchProposal-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_bdcc">master thesis</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_bdcc: master dissertation-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_beb9">data paper</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_beb9: data descriptor-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_c513">image</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_c94f">conference output</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_c950">research software</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_cb28">clinical trial data</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_cb28: randomized control trial-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_db06">doctoral thesis</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/resource_type/c_db06:
+	dissertation
+	PhD Thesis-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_dcae04bc">review article</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_dcae04bc: journal commentary-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_ddb1">dataset</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_ddb1: data sets-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_e059">learning object</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/resource_type/c_e059:
+	open education resource
+	coursepack-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_e9a0">interactive resource</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_ecc8">still image</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_efa0">review</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_f744">conference proceedings</epp:phrase>
 </epp:phrases>

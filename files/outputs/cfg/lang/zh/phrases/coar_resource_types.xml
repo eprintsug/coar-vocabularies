@@ -3,165 +3,95 @@
 <epp:phrases xmlns="http://www.w3.org/1999/xhtml" xmlns:epp="http://eprints.org/ep3/phrase" xmlns:epc="http://eprints.org/ep3/control">
   <!--COAR vocabulary modified on: UNKNOWN
     This phrase file was generated on 2024-06-20-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cw">乐谱</epp:phrase>
-  <!--AltLabel for http://purl.org/coar/resource_type/c_18cw: 樂譜-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/2H0M-X761">地理空间数据</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/542X-3S04">设计</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/63NG-B465">实验数据</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/6NC7-GK9S">转录资料</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/6NC7-GK9S: 誊写记录-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/9DKX-KSAF">实用新型专利</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/A8F1-NPV9">基因组数据</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/ACF7-8YT9">聚合数据</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/AM6W-6QAW">编码数据</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/BW7T-YM2G">布图设计</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/C53B-JCY5">设计专利</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/CQMR-7K63">记录数据</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/D97F-VB57">评注</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/DD58-GFSX">测量与测试数据</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/FF4C-28RK">观测数据</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/FXF3-D3G7">汇编数据</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/GPQ7-G5VE">植物新品种保护</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/H41Y-FW7B">实验室记录本</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/H6QP-SC1X">商标</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/H9BQ-739P">同行评议</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/JBNF-DYAD">工业图纸</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/MW8G-3CR8">软件著作权</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/MW8G-3CR8: 软件专利-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/NHD0-W6SY">调查数据</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/QH80-2R4E">源代码</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/QX5C-AR31">其他连续出版物</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/R60J-J5BD">会议演示报告</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/SB3Y-W4EH">国际专利合作条约PCT申请</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/W2XT-7017">模拟数据</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/YZ1N-ZFT9">研究方案</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/Z907-YMBB">品种专属权</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_0640">学术期刊</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/resource_type/c_0640:
+	学报
+	科学期刊
+	科學期刊
+	學報
+	學術期刊-->
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_0857">信</epp:phrase>
   <!--AltLabels for http://purl.org/coar/resource_type/c_0857:
 	读者来信
 	讀者來信-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_ecc8">静态图像</epp:phrase>
-  <!--AltLabels for http://purl.org/coar/resource_type/c_ecc8:
-	靜態圖像
-	靜止圖像
-	静止图像-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/QH80-2R4E">源代码</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_1162">标注</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/resource_type/c_1162:
+	標注
+	註釋
+	詮釋
+	注释
+	诠释-->
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_12cc">地图类资料</epp:phrase>
   <!--AltLabel for http://purl.org/coar/resource_type/c_12cc: 地圖類資料-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/Z907-YMBB">品种专属权</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/MW8G-3CR8">软件著作权</epp:phrase>
-  <!--AltLabel for http://purl.org/coar/resource_type/MW8G-3CR8: 软件专利-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/FXF3-D3G7">汇编数据</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_beb9">数据文章</epp:phrase>
-  <!--AltLabel for http://purl.org/coar/resource_type/c_beb9: 數據文章-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/63NG-B465">实验数据</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18ww">内部报告</epp:phrase>
-  <!--AltLabel for http://purl.org/coar/resource_type/c_18ww: 內部報告-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_8544">讲座</epp:phrase>
-  <!--AltLabels for http://purl.org/coar/resource_type/c_8544:
-	演讲
-	讲课
-	講座
-	演講
-	講課-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_efa0">评论</epp:phrase>
-  <!--AltLabels for http://purl.org/coar/resource_type/c_efa0:
-	评审
-	評論
-	综述
-	評審
-	綜述-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/542X-3S04">设计</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18hj">给资助机构的报告</epp:phrase>
-  <!--AltLabel for http://purl.org/coar/resource_type/c_18hj: 給資助機構的報告-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/D97F-VB57">评注</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_15cd">专利</epp:phrase>
-  <!--AltLabel for http://purl.org/coar/resource_type/c_15cd: 專利-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_e9a0">互动资源</epp:phrase>
-  <!--AltLabels for http://purl.org/coar/resource_type/c_e9a0:
-	互動資源
-	交互式資源
-	交互式资源-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/H41Y-FW7B">实验室记录本</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_baaf">研究计划</epp:phrase>
-  <!--AltLabels for http://purl.org/coar/resource_type/c_baaf:
-	研究方案
-	研究計劃-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/SB3Y-W4EH">国际专利合作条约PCT申请</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_816b">预印本</epp:phrase>
-  <!--AltLabel for http://purl.org/coar/resource_type/c_816b: 先印本-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_dcae04bc">综述文章</epp:phrase>
-  <!--AltLabels for http://purl.org/coar/resource_type/c_dcae04bc:
-	综述论文
-	综述
-	综述评论性论文
-	综述评论性文章-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cc">声音</epp:phrase>
-  <!--AltLabel for http://purl.org/coar/resource_type/c_18cc: 聲音-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_2659">期刊</epp:phrase>
-  <!--AltLabels for http://purl.org/coar/resource_type/c_2659:
-	連續出版刊物
-	连续出版刊物
-	定期刊物-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/YZ1N-ZFT9">研究方案</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_2df8fbb1">原创研究文章</epp:phrase>
-  <!--AltLabel for http://purl.org/coar/resource_type/c_2df8fbb1: 原创研究论文-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cd">音乐</epp:phrase>
-  <!--AltLabels for http://purl.org/coar/resource_type/c_18cd:
-	音樂
-	音樂作品
-	音乐作品-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_b239">社论</epp:phrase>
-  <!--AltLabels for http://purl.org/coar/resource_type/c_b239:
-	社評
-	社评
-	社論-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/CQMR-7K63">记录数据</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_7ad9">网站</epp:phrase>
-  <!--AltLabels for http://purl.org/coar/resource_type/c_7ad9:
-	讨论会
-	網站-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_6670">会议集里的会议海报/会议板报</epp:phrase>
-  <!--AltLabels for http://purl.org/coar/resource_type/c_6670:
-	會議海報
-	會議牆報
-	会议墙报-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_3e5a">期刊文献</epp:phrase>
-  <!--AltLabels for http://purl.org/coar/resource_type/c_3e5a:
-	期刊论文
-	期刊文獻-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/H6QP-SC1X">商标</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/BW7T-YM2G">布图设计</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18wq">其他报告</epp:phrase>
-  <!--AltLabel for http://purl.org/coar/resource_type/c_18wq: 其它報告-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_393c">工作流程</epp:phrase>
-  <!--AltLabel for http://purl.org/coar/resource_type/c_393c: 工作流-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/QX5C-AR31">其他连续出版物</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cf">文本</epp:phrase>
-  <!--AltLabels for http://purl.org/coar/resource_type/c_18cf:
-	文檔
-	文档-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_bdcc">硕士学位论文</epp:phrase>
-  <!--AltLabels for http://purl.org/coar/resource_type/c_bdcc:
-	碩士學位論文
-	碩士研究生畢業論文
-	硕士研究生毕业论文-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_8042">研究手稿</epp:phrase>
-  <!--AltLabels for http://purl.org/coar/resource_type/c_8042:
-	未發表論文
-	工作底稿
-	未发表论文-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_c513">图像</epp:phrase>
-  <!--AltLabels for http://purl.org/coar/resource_type/c_c513:
-	图片
-	圖片
-	影像
-	圖像-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/2H0M-X761">地理空间数据</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/W2XT-7017">模拟数据</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18op">项目可交付成果</epp:phrase>
-  <!--AltLabel for http://purl.org/coar/resource_type/c_18op: 項目可交付成果-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_12cd">地图</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_12cd: 地圖-->
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_12ce">视频</epp:phrase>
   <!--AltLabels for http://purl.org/coar/resource_type/c_12ce:
 	視頻
 	動態影像
 	动态影像-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/GPQ7-G5VE">植物新品种保护</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/A8F1-NPV9">基因组数据</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_186u">政策报告</epp:phrase>
-  <!--AltLabel for http://purl.org/coar/resource_type/c_186u: 政策報告-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_15cd">专利</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_15cd: 專利-->
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_1843">其他</epp:phrase>
   <!--AltLabel for http://purl.org/coar/resource_type/c_1843: 其它-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/H9BQ-739P">同行评议</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_ba1f">报告部分</epp:phrase>
-  <!--AltLabel for http://purl.org/coar/resource_type/c_ba1f: 報告部分-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/FF4C-28RK">观测数据</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_db06">博士学位论文</epp:phrase>
-  <!--AltLabels for http://purl.org/coar/resource_type/c_db06:
-	博士研究生毕业文论
-	博士學位論文
-	博士研究生畢業論文-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/6NC7-GK9S">转录资料</epp:phrase>
-  <!--AltLabel for http://purl.org/coar/resource_type/6NC7-GK9S: 誊写记录-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_ba08">书评</epp:phrase>
-  <!--AltLabel for http://purl.org/coar/resource_type/c_ba08: 書評-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/NHD0-W6SY">调查数据</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/C53B-JCY5">设计专利</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_5ce6">软件</epp:phrase>
-  <!--AltLabels for http://purl.org/coar/resource_type/c_5ce6:
-	软体
-	軟件
-	軟體-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/ACF7-8YT9">聚合数据</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_186u">政策报告</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_186u: 政策報告-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cc">声音</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_18cc: 聲音-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cd">音乐</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/resource_type/c_18cd:
+	音樂
+	音樂作品
+	音乐作品-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cf">文本</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/resource_type/c_18cf:
+	文檔
+	文档-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18co">非会议集里的会议海报/会议板报</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_18co: 未發表在會議論文集中的海報-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cp">非会议集里的会议论文</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_18cp: 未發表在會議論文集中的文章-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cw">乐谱</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_18cw: 樂譜-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18gh">技术报告</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_18gh: 技術報告-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18hj">给资助机构的报告</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_18hj: 給資助機構的報告-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18op">项目可交付成果</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_18op: 項目可交付成果-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18wq">其他报告</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_18wq: 其它報告-->
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18ws">研究报告</epp:phrase>
   <!--AltLabels for http://purl.org/coar/resource_type/c_18ws:
 	科研報告
@@ -169,13 +99,52 @@
 	调研报告
 	研究報告
 	科研报告-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/R60J-J5BD">会议演示报告</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_c94f">会议对象</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18ww">内部报告</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_18ww: 內部報告-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18wz">备忘录</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_18wz: 備忘錄-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_2659">期刊</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/resource_type/c_2659:
+	連續出版刊物
+	连续出版刊物
+	定期刊物-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_2df8fbb1">原创研究文章</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_2df8fbb1: 原创研究论文-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_2f33">书</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/resource_type/c_2f33:
+	書
+	专著
+	图书
+	專著
+	圖書-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_3248">章节</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_3248: 章節-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_393c">工作流程</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_393c: 工作流-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_3e5a">期刊文献</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/resource_type/c_3e5a:
+	期刊论文
+	期刊文獻-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_46ec">学位论文</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/resource_type/c_46ec:
+	毕业论文
+	學位論文
+	畢業論文-->
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_545b">读者来信</epp:phrase>
   <!--AltLabels for http://purl.org/coar/resource_type/c_545b:
 	快报
 	快報
 	讀者來信-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_5794">会议论文</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/resource_type/c_5794:
+	會議文章
+	会议文章
+	會議論文-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_5ce6">软件</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/resource_type/c_5ce6:
+	软体
+	軟件
+	軟體-->
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_6501">学术论文</epp:phrase>
   <!--AltLabels for http://purl.org/coar/resource_type/c_6501:
 	期刊论文
@@ -185,40 +154,11 @@
 	文章
 	期刊文章
 	期刊論文-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_93fc">报告</epp:phrase>
-  <!--AltLabels for http://purl.org/coar/resource_type/c_93fc:
-	调研报告
-	科研报告
-	研究报告
-	報告-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/AM6W-6QAW">编码数据</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_f744">会议论文集</epp:phrase>
-  <!--AltLabels for http://purl.org/coar/resource_type/c_f744:
-	会刊
-	會議論文集
-	會刊-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_5794">会议论文</epp:phrase>
-  <!--AltLabels for http://purl.org/coar/resource_type/c_5794:
-	會議文章
-	会议文章
-	會議論文-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/9DKX-KSAF">实用新型专利</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_cb28">临床试验数据</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/JBNF-DYAD">工业图纸</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_8a7e">运动图像</epp:phrase>
-  <!--AltLabels for http://purl.org/coar/resource_type/c_8a7e:
-	动画
-	運動圖像
-	動畫-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_3248">章节</epp:phrase>
-  <!--AltLabel for http://purl.org/coar/resource_type/c_3248: 章節-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_0640">学术期刊</epp:phrase>
-  <!--AltLabels for http://purl.org/coar/resource_type/c_0640:
-	学报
-	科学期刊
-	科學期刊
-	學報
-	學術期刊-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_6670">会议集里的会议海报/会议板报</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/resource_type/c_6670:
+	會議海報
+	會議牆報
+	会议墙报-->
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_71bd">技术资料</epp:phrase>
   <!--AltLabels for http://purl.org/coar/resource_type/c_71bd:
 	技術文獻
@@ -226,49 +166,109 @@
 	技术文献
 	技術資料
 	技术文档-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_ddb1">数据集</epp:phrase>
-  <!--AltLabels for http://purl.org/coar/resource_type/c_ddb1:
-	數據集
-	資料組
-	资料组-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cp">非会议集里的会议论文</epp:phrase>
-  <!--AltLabel for http://purl.org/coar/resource_type/c_18cp: 未發表在會議論文集中的文章-->
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_7a1f">学士学位论文</epp:phrase>
   <!--AltLabels for http://purl.org/coar/resource_type/c_7a1f:
 	本科毕业论文
 	本科畢業論文
 	學士學位論文-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18gh">技术报告</epp:phrase>
-  <!--AltLabel for http://purl.org/coar/resource_type/c_18gh: 技術報告-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_7ad9">网站</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/resource_type/c_7ad9:
+	讨论会
+	網站-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_8042">研究手稿</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/resource_type/c_8042:
+	未發表論文
+	工作底稿
+	未发表论文-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_816b">预印本</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_816b: 先印本-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_8544">讲座</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/resource_type/c_8544:
+	演讲
+	讲课
+	講座
+	演講
+	講課-->
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_86bc">文献目录</epp:phrase>
   <!--AltLabels for http://purl.org/coar/resource_type/c_86bc:
 	書目
 	书目
 	文獻目錄-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18co">非会议集里的会议海报/会议板报</epp:phrase>
-  <!--AltLabel for http://purl.org/coar/resource_type/c_18co: 未發表在會議論文集中的海報-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_46ec">学位论文</epp:phrase>
-  <!--AltLabels for http://purl.org/coar/resource_type/c_46ec:
-	毕业论文
-	學位論文
-	畢業論文-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_1162">标注</epp:phrase>
-  <!--AltLabels for http://purl.org/coar/resource_type/c_1162:
-	標注
-	註釋
-	詮釋
-	注释
-	诠释-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_12cd">地图</epp:phrase>
-  <!--AltLabel for http://purl.org/coar/resource_type/c_12cd: 地圖-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/DD58-GFSX">测量与测试数据</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_2f33">书</epp:phrase>
-  <!--AltLabels for http://purl.org/coar/resource_type/c_2f33:
-	書
-	专著
-	图书
-	專著
-	圖書-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18wz">备忘录</epp:phrase>
-  <!--AltLabel for http://purl.org/coar/resource_type/c_18wz: 備忘錄-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_8a7e">运动图像</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/resource_type/c_8a7e:
+	动画
+	運動圖像
+	動畫-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_93fc">报告</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/resource_type/c_93fc:
+	调研报告
+	科研报告
+	研究报告
+	報告-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_b239">社论</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/resource_type/c_b239:
+	社評
+	社评
+	社論-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_ba08">书评</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_ba08: 書評-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_ba1f">报告部分</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_ba1f: 報告部分-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_baaf">研究计划</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/resource_type/c_baaf:
+	研究方案
+	研究計劃-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_bdcc">硕士学位论文</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/resource_type/c_bdcc:
+	碩士學位論文
+	碩士研究生畢業論文
+	硕士研究生毕业论文-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_beb9">数据文章</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_beb9: 數據文章-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_c513">图像</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/resource_type/c_c513:
+	图片
+	圖片
+	影像
+	圖像-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_c94f">会议对象</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_cb28">临床试验数据</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_db06">博士学位论文</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/resource_type/c_db06:
+	博士研究生毕业文论
+	博士學位論文
+	博士研究生畢業論文-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_dcae04bc">综述文章</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/resource_type/c_dcae04bc:
+	综述论文
+	综述
+	综述评论性论文
+	综述评论性文章-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_ddb1">数据集</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/resource_type/c_ddb1:
+	數據集
+	資料組
+	资料组-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_e9a0">互动资源</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/resource_type/c_e9a0:
+	互動資源
+	交互式資源
+	交互式资源-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_ecc8">静态图像</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/resource_type/c_ecc8:
+	靜態圖像
+	靜止圖像
+	静止图像-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_efa0">评论</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/resource_type/c_efa0:
+	评审
+	評論
+	综述
+	評審
+	綜述-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_f744">会议论文集</epp:phrase>
+  <!--AltLabels for http://purl.org/coar/resource_type/c_f744:
+	会刊
+	會議論文集
+	會刊-->
 </epp:phrases>
