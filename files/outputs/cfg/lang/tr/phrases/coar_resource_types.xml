@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE phrases SYSTEM "entities.dtd">
 <epp:phrases xmlns="http://www.w3.org/1999/xhtml" xmlns:epp="http://eprints.org/ep3/phrase" xmlns:epc="http://eprints.org/ep3/control">
-  <!--COAR vocabulary modified on: UNKNOWN
-    This phrase file was generated on 2024-06-20-->
+  <!--COAR vocabulary modified on: 2022-09-29T10:57:37+00:00
+    This phrase file was generated on 2024-08-05-->
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/2H0M-X761">coğrafi uzamsal veri</epp:phrase>
   <!--AltLabel for http://purl.org/coar/resource_type/2H0M-X761: jeo uzamsal veri-->
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/542X-3S04">tasarım</epp:phrase>
@@ -18,8 +18,8 @@
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/CQMR-7K63">kaydedilmiş veri</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/D97F-VB57">yorum</epp:phrase>
   <!--AltLabel for http://purl.org/coar/resource_type/D97F-VB57: değerlendirme-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/DD58-GFSX">�l��m ve test verisi</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/FF4C-28RK">g�zlemsel veri</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/DD58-GFSX">ölçüm ve test verisi</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/FF4C-28RK">gözlemsel veri</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/FXF3-D3G7">derlenmiş veri</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/GPQ7-G5VE">bitki çeşitliliğini koruma</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/H41Y-FW7B">laboratuvar defteri</epp:phrase>
@@ -36,7 +36,7 @@
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/R60J-J5BD">konferans sunumu</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/SB3Y-W4EH">PCT başvurusu</epp:phrase>
   <!--AltLabel for http://purl.org/coar/resource_type/SB3Y-W4EH: Patent İşbirliği Anlaşması başvurusu-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/W2XT-7017">sim�lasyon verisi</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/W2XT-7017">simülasyon verisi</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/YZ1N-ZFT9">araştırma protokolü</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/Z907-YMBB">bitki patenti</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_0040">Yazma eser</epp:phrase>
@@ -52,7 +52,7 @@
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_1843">diğer</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_186u">politika raporu</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cc">ses</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cd">m�zikal kompozisyon</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cd">müzikal kompozisyon</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cf">metin</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18co">yayınlanmamış konferans posteri</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cp">yayınlanmamış konferans bildirisi</epp:phrase>
@@ -67,13 +67,13 @@
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_2659">süreli yayın</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_26e4">Görüşme</epp:phrase>
   <!--AltLabels for http://purl.org/coar/resource_type/c_26e4:
-	M�lakat
-	R�portaj-->
+	Mülakat
+	Röportaj-->
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_2cd9">Magazin</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_2df8fbb1">araştırma makalesi</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_2f33">kitap</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_2fe3">Gazete</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_3248">kitap b�l�m�</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_3248">kitap bölümü</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_393c">iş akışı</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_46ec">tez</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_5794">konferans belgesi</epp:phrase>
@@ -81,28 +81,28 @@
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_6501">dergi makalesi</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_6670">konferans posteri</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_6947">Blog yazısı</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_71bd">teknik dok�mantasyon</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_71bd">teknik dokümantasyon</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_7877">Klinik çalışması</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_7a1f">lisans tezi</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_7ad9">web sitesi</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_8042">�n rapor</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_8042">ön rapor</epp:phrase>
   <!--AltLabels for http://purl.org/coar/resource_type/c_8042:
 	ön makale
 	çalışma belgesi-->
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_816b">ön baskı</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_8544">ders</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_86bc">kaynak�a</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_86bc">kaynakça</epp:phrase>
   <!--AltLabel for http://purl.org/coar/resource_type/c_86bc: bibliyografya-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_8a7e">hareketli g�r�nt�</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_8a7e">hareketli görüntü</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_93fc">rapor</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_998f">Gazete kup�r�</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_998f">Gazete kupürü</epp:phrase>
   <!--AltLabel for http://purl.org/coar/resource_type/c_998f: Gazete yazısı-->
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_b239">Editoryal</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_ba08">kitap eleştirisi</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_ba1f">rapor b�l�m�</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_ba1f">rapor bölümü</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_baaf">araştırma önerisi</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_bdcc">y�ksek lisans tezi</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_c513">g�r�nt�</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_bdcc">yüksek lisans tezi</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_c513">görüntü</epp:phrase>
   <!--AltLabel for http://purl.org/coar/resource_type/c_c513: imaj-->
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_c94f">konferans çıktısı</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_c950">Araştırma yazılımı</epp:phrase>
@@ -112,7 +112,7 @@
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_ddb1">veri seti</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_e059">Öğrenim nesnesi</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_e9a0">etkileşimli kaynak</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_ecc8">hareketsiz g�r�nt�</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_ecc8">hareketsiz görüntü</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_efa0">eleştiri</epp:phrase>
   <!--AltLabel for http://purl.org/coar/resource_type/c_efa0: derleme-->
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_f744">konferans bildirileri</epp:phrase>

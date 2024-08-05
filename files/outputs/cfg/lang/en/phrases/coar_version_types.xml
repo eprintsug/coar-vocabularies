@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE phrases SYSTEM "entities.dtd">
 <epp:phrases xmlns="http://www.w3.org/1999/xhtml" xmlns:epp="http://eprints.org/ep3/phrase" xmlns:epc="http://eprints.org/ep3/control">
-  <!--COAR vocabulary modified on: UNKNOWN
-    This phrase file was generated on 2024-06-20-->
+  <!--COAR vocabulary modified on: 2022-09-29T10:57:46+00:00
+    This phrase file was generated on 2024-08-05-->
   <epp:phrase id="coar_version_types_typename_http://purl.org/coar/version/c_71e4c1898caa6e32">SMUR</epp:phrase>
   <!--AltLabels for http://purl.org/coar/version/c_71e4c1898caa6e32:
 	submitted manuscript under review

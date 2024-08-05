@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE phrases SYSTEM "entities.dtd">
 <epp:phrases xmlns="http://www.w3.org/1999/xhtml" xmlns:epp="http://eprints.org/ep3/phrase" xmlns:epc="http://eprints.org/ep3/control">
-  <!--COAR vocabulary modified on: UNKNOWN
-    This phrase file was generated on 2024-06-20-->
+  <!--COAR vocabulary modified on: 2022-09-29T10:57:37+00:00
+    This phrase file was generated on 2024-08-05-->
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/2H0M-X761">geospatiale gegevens</epp:phrase>
   <!--AltLabel for http://purl.org/coar/resource_type/2H0M-X761: locatie data-->
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/542X-3S04">ontwerp</epp:phrase>
@@ -11,7 +11,7 @@
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/9DKX-KSAF">gebruiksmodel</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/A8F1-NPV9">genomische data</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/ACF7-8YT9">geaggregeerde data</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/AM6W-6QAW">geëncodeerde data</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/AM6W-6QAW">geÃ«ncodeerde data</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/BW7T-YM2G">lay-out ontwerp</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/C53B-JCY5">modelbescherming</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/CQMR-7K63">vastgelegde data</epp:phrase>

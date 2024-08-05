@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE phrases SYSTEM "entities.dtd">
 <epp:phrases xmlns="http://www.w3.org/1999/xhtml" xmlns:epp="http://eprints.org/ep3/phrase" xmlns:epc="http://eprints.org/ep3/control">
-  <!--COAR vocabulary modified on: UNKNOWN
-    This phrase file was generated on 2024-06-20-->
+  <!--COAR vocabulary modified on: 2022-09-29T10:57:37+00:00
+    This phrase file was generated on 2024-08-05-->
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/2H0M-X761">paikkatieto</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/542X-3S04">suunnitelma</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/63NG-B465">kokeellinen data</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/6NC7-GK9S">litteroitu teksti</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/9DKX-KSAF">hyˆdyllisyysmalli</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/9DKX-KSAF">hy√∂dyllisyysmalli</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/A8F1-NPV9">genomidata</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/ACF7-8YT9">aggregoitu tilastotieto</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/AM6W-6QAW">koodattu data</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/BW7T-YM2G">piirikaavio</epp:phrase>
-  <!--AltLabel for http://purl.org/coar/resource_type/BW7T-YM2G: kytkent‰kaavio-->
+  <!--AltLabel for http://purl.org/coar/resource_type/BW7T-YM2G: kytkent√§kaavio-->
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/C53B-JCY5">mallipatentti</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/CQMR-7K63">tallennettu data</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/D97F-VB57">kritiikki</epp:phrase>
@@ -20,21 +20,21 @@
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/FF4C-28RK">havaintoaineisto</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/FXF3-D3G7">yhdistetty data</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/GPQ7-G5VE">kasvinjalostajanoikeus</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/H41Y-FW7B">laboratoriop‰iv‰kirja</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/H41Y-FW7B">laboratoriop√§iv√§kirja</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/H6QP-SC1X">tavaramerkki</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/H9BQ-739P">vertaisarviointi</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/JBNF-DYAD">tuotesuunnnitelma</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/MW8G-3CR8">ohjelmistopatentti</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/NHD0-W6SY">haastatteluaineisto</epp:phrase>
   <!--AltLabel for http://purl.org/coar/resource_type/NHD0-W6SY: survey-aineisto-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/QH80-2R4E">l‰hdekoodi</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/QH80-2R4E">l√§hdekoodi</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/QX5C-AR31">muu kausijulkaisu</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/R60J-J5BD">konferenssiesitelm‰</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/SB3Y-W4EH">kansainv‰linen patenttihakemus</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/R60J-J5BD">konferenssiesitelm√§</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/SB3Y-W4EH">kansainv√§linen patenttihakemus</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/W2XT-7017">simulaatiolla tuotettu data</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/YZ1N-ZFT9">tutkimussuunnitelma</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/Z907-YMBB">kasvinjalostepatentti</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_0040">k‰sikirjoitus</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_0040">k√§sikirjoitus</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_0640">tieteellinen kausijulkaisu</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_0857">kirje</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_1162">kommentaari</epp:phrase>
@@ -44,11 +44,11 @@
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_15cd">patentti</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_1843">muu</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_186u">politiikkaraportti</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cc">‰‰ni</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cd">s‰vellys</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cc">√§√§ni</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cd">s√§vellys</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cf">teksti</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18co">posteri erillisjulkaisuna</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cp">konferenssiesitelm‰ erillisjulkaisuna</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cp">konferenssiesitelm√§ erillisjulkaisuna</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cw">nuottikirjoitus</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18gh">tekninen raportti</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18op">hankkeen suorite</epp:phrase>
@@ -59,9 +59,9 @@
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_2f33">kirja</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_2fe3">sanomalehti</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_3248">kirjan osa</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_393c">tyˆnkulku</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_46ec">opinn‰yte</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_545b">kirje p‰‰toimittajalle</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_393c">ty√∂nkulku</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_46ec">opinn√§yte</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_545b">kirje p√§√§toimittajalle</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_5794">artikkeli konferenssijulkaisussa</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_5ce6">ohjelmisto</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_6501">tieteellinen artikkeli</epp:phrase>
@@ -75,7 +75,7 @@
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_7ad9">verkkosivusto</epp:phrase>
   <!--AltLabel for http://purl.org/coar/resource_type/c_7ad9: web-sivusto-->
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_7bab">ohjelmistoa kuvaava artikkeli</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_8042">tyˆpaperi</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_8042">ty√∂paperi</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_816b">preprint</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_8544">luento</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_86bc">bibliografia</epp:phrase>
@@ -83,7 +83,7 @@
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_93fc">raportti</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_998f">sanomalehtiartikkeli</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_ab20">datanhallintasuunnitelma</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_b239">p‰‰kirjoitus</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_b239">p√§√§kirjoitus</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_ba08">kirja-arvostelu</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_baaf">tutkimusehdotus</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_bdcc">maisterintutkielma</epp:phrase>
@@ -91,8 +91,8 @@
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_c513">kuva</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_c950">tutkimusohjelmisto</epp:phrase>
   <!--AltLabel for http://purl.org/coar/resource_type/c_c950: tutkimussovellus-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_cb28">kliinisell‰ kokeella tuotettu data</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_db06">v‰itˆskirja</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_cb28">kliinisell√§ kokeella tuotettu data</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_db06">v√§it√∂skirja</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_dcae04bc">katsausartikkeli</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_ddb1">tutkimusaineisto</epp:phrase>
   <!--AltLabel for http://purl.org/coar/resource_type/c_ddb1: tutkimusdata-->

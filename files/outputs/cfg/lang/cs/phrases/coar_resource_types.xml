@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE phrases SYSTEM "entities.dtd">
 <epp:phrases xmlns="http://www.w3.org/1999/xhtml" xmlns:epp="http://eprints.org/ep3/phrase" xmlns:epc="http://eprints.org/ep3/control">
-  <!--COAR vocabulary modified on: UNKNOWN
-    This phrase file was generated on 2024-06-20-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_0640">odborn� periodikum</epp:phrase>
+  <!--COAR vocabulary modified on: 2022-09-29T10:57:37+00:00
+    This phrase file was generated on 2024-08-05-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_0640">odborné periodikum</epp:phrase>
   <!--AltLabel for http://purl.org/coar/resource_type/c_0640: odborný časopis-->
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_0857">dopis</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_1162">právní komentář rozsudku nebo rozhodnutí</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_12cc">kartografick� dokument</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_12cc">kartografický dokument</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_12cd">mapa</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_12ce">video</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_15cd">patent</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_1843">ostatn�</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_186u">zpr�va k politice nebo strategii</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_1843">ostatní</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_186u">zpráva k politice nebo strategii</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cc">zvuk</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cd">hudebn� skladba</epp:phrase>
-  <!--AltLabel for http://purl.org/coar/resource_type/c_18cd: hudebn� kompozice-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cd">hudební skladba</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_18cd: hudební kompozice-->
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cf">text</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18co">konferenční poster nezahrnutý ve sborníku</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cp">konferenční příspěvek nezahrnutý ve sborníku</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cw">hudebn� z�pis</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18cw">hudební zápis</epp:phrase>
   <!--AltLabel for http://purl.org/coar/resource_type/c_18cw: noty-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18gh">technick� zpr�va</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18hj">zpr�va pro poskytovatele podpory</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18op">v�stup projektu</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18wq">jin� zpr�va</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18ws">v�zkumn� zpr�va</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18ww">intern� zpr�va</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18gh">technická zpráva</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18hj">zpráva pro poskytovatele podpory</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18op">výstup projektu</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18wq">jiná zpráva</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18ws">výzkumná zpráva</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18ww">interní zpráva</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_18wz">memorandum</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_2659">periodikum</epp:phrase>
   <!--AltLabel for http://purl.org/coar/resource_type/c_2659: časopis-->
@@ -35,7 +35,7 @@
   <!--AltLabel for http://purl.org/coar/resource_type/c_2f33: monografie-->
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_3248">část knihy</epp:phrase>
   <!--AltLabel for http://purl.org/coar/resource_type/c_3248: kapitola v knize-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_393c">pracovn� postup</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_393c">pracovní postup</epp:phrase>
   <!--AltLabel for http://purl.org/coar/resource_type/c_393c: procedura-->
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_3e5a">příspěvek v časopisu</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_46ec">kvalifikační práce</epp:phrase>
@@ -46,29 +46,29 @@
   <!--AltLabel for http://purl.org/coar/resource_type/c_5ce6: počítačový program-->
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_6501">článek v odborném časopisu</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_6670">poster na konferenci</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_71bd">technick� dokumentace</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_71bd">technická dokumentace</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_7a1f">bakalářská práce</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_7ad9">webov� s�dlo</epp:phrase>
-  <!--AltLabel for http://purl.org/coar/resource_type/c_7ad9: webov� str�nky-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_8042">pracovn� dokument</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_7ad9">webové sídlo</epp:phrase>
+  <!--AltLabel for http://purl.org/coar/resource_type/c_7ad9: webové stránky-->
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_8042">pracovní dokument</epp:phrase>
   <!--AltLabel for http://purl.org/coar/resource_type/c_8042: working paper-->
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_8544">přednáška</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_86bc">bibliografie</epp:phrase>
   <!--AltLabel for http://purl.org/coar/resource_type/c_86bc: přehled literatury-->
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_8a7e">pohybliv� obraz</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_93fc">zpr�va</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_b239">�vodn�k</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_8a7e">pohyblivý obraz</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_93fc">zpráva</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_b239">úvodník</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_ba08">recenze knihy</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_baaf">n�vrh v�zkumn�ho projektu</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_bdcc">diplomov� pr�ce</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_baaf">návrh výzkumného projektu</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_bdcc">diplomová práce</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_beb9">článek o datové sadě</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_c513">obraz</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_db06">disertační práce</epp:phrase>
-  <!--AltLabel for http://purl.org/coar/resource_type/c_db06: doktorsk� pr�ce-->
+  <!--AltLabel for http://purl.org/coar/resource_type/c_db06: doktorská práce-->
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_dcae04bc">přehledový článek</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_ddb1">datov� sada</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_e9a0">interaktivn� zdroj</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_ecc8">nepohybliv� obraz</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_ddb1">datová sada</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_e9a0">interaktivní zdroj</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_ecc8">nepohyblivý obraz</epp:phrase>
   <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_efa0">recenze</epp:phrase>
-  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_f744">sborn�k konference</epp:phrase>
+  <epp:phrase id="coar_resource_types_typename_http://purl.org/coar/resource_type/c_f744">sborník konference</epp:phrase>
 </epp:phrases>

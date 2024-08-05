@@ -2,12 +2,12 @@
 <!DOCTYPE phrases SYSTEM "entities.dtd">
 <epp:phrases xmlns="http://www.w3.org/1999/xhtml" xmlns:epp="http://eprints.org/ep3/phrase" xmlns:epc="http://eprints.org/ep3/control">
   <!--COAR vocabulary modified on: 2022-09-29T10:57:25+00:00
-    This phrase file was generated on 2024-06-20-->
-  <epp:phrase id="coar_access_rights_typename_http://purl.org/coar/access_right/c_14cb">registro bibliogr·fico</epp:phrase>
+    This phrase file was generated on 2024-08-05-->
+  <epp:phrase id="coar_access_rights_typename_http://purl.org/coar/access_right/c_14cb">registro bibliogr√°fico</epp:phrase>
   <!--AltLabels for http://purl.org/coar/access_right/c_14cb:
 	acceso a registro bibliografico
 	registro bibliografico
-	acceso a registro bibliogr·fico
+	acceso a registro bibliogr√°fico
 	acceso a metadatos solamente
 	acceso a metadatos-->
   <epp:phrase id="coar_access_rights_typename_http://purl.org/coar/access_right/c_16ec">acceso restringido</epp:phrase>
@@ -20,13 +20,13 @@
   <epp:phrase id="coar_access_rights_typename_http://purl.org/coar/access_right/c_abf2">acceso abierto</epp:phrase>
   <!--AltLabels for http://purl.org/coar/access_right/c_abf2:
 	acceso abierto gratuito
-	acceso p˙blico-->
+	acceso p√∫blico-->
   <epp:phrase id="coar_access_rights_typename_http://purl.org/coar/access_right/c_f1cf">acceso embargado</epp:phrase>
   <!--AltLabels for http://purl.org/coar/access_right/c_f1cf:
 	deposito oscuro
 	acceso bajo periodo de embargo
 	acceso con periodo de carencia
-	acceso bajo perÌodo de embargo
+	acceso bajo per√≠odo de embargo
 	acceso con periodo de embargo
-	depÛsito oscuro-->
+	dep√≥sito oscuro-->
 </epp:phrases>
