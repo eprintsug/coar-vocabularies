@@ -7,11 +7,6 @@
 use FindBin;
 use lib "$FindBin::Bin/../../../../perl_lib";
 
-######################################################################
-#
-#
-######################################################################
-
 =pod
 
 =head1 NAME
@@ -20,7 +15,7 @@ B<process_coar_vocabs.pl> - Generate namedset and language specific phrase files
 
 =head1 SYNOPSIS
 
-B<process_coar_vocabs.pl> [B<SKOS-file> B<namedset-name>] [B<options>] 
+B<process_coar_vocabs.pl> [B<skos-file> B<namedset-name>] [B<options>] 
 
 =head1 DESCRIPTION
 
@@ -78,7 +73,6 @@ use Data::Dumper;
 my $source_dir = dirname(__FILE__) . "/../files/sources/clean/";
 my $output_dir = dirname(__FILE__) . "/../files/outputs";
 
-#binmode *STDOUT, ':utf8'; # debugging 
 binmode *STDOUT, ':encoding(UTF-8)'; # debugging 
 
 my $verbose = 0;
@@ -116,11 +110,9 @@ GetOptions(
 ) || pod2usage( 2 );
 pod2usage( 1 ) if $help;
 pod2usage( -exitstatus => 0, -verbose => 2 ) if $man;
-#pod2usage( 2 ) if( scalar @ARGV != 2 ); 
 
 # Set STDOUT to auto flush (without needing a \n)
 $|=1;
-
 
 foreach my $v ( @$vocabs_to_generate )
 {
@@ -188,7 +180,7 @@ foreach my $vocab ( @$vocabs_to_generate )
 		close( $fh );
 	}
 	else
-	{	
+	{
 		print "Vocab URL: $vocabs{$vocab}\n" if $verbose;
 
 		my $skos_file = get_skos_from_url( $vocabs{$vocab} );
@@ -323,6 +315,7 @@ sub get_skos_from_url
 	else
 	{
 		print STDERR "Failed to retrieve $url: " . $r->code . " " . $r->message,"\n";
+		exit 1;
 	}
 
 	return;
@@ -337,7 +330,7 @@ sub process_skos
 	# get rid of schema (and possibly other unwanted subjects)
 	my %excl;
 	@excl{@subjects_to_exclude} = undef; #cast array to hash
-	@namedset_opts = sort grep { not exists $excl{$_} } @namedset_opts;	
+	@namedset_opts = sort grep { not exists $excl{$_} } @namedset_opts;
 
 	save_namedset_file( "$output_dir/cfg/namedsets/$namedset", \@namedset_opts );
 
@@ -349,7 +342,7 @@ sub process_skos
 			print "Skipping $lang\n" if $verbose;
 			next;
 		}
-		print "Generating $lang\n";
+		print "Generating $lang\n" if $verbose;
 
 		my $doc = create_phrase_document();
 		add_comment( $doc, 
@@ -394,10 +387,8 @@ sub process_skos
 			}
 		}
 
-		#print $doc->toString(1);
 		my $phrase_path = "$output_dir/cfg/lang/$lang/phrases";
-		print $phrase_path,"\n";
-		save_phrase_file( $doc, $phrase_path, "$namedset.xml" );	
+		save_phrase_file( $doc, $phrase_path, "$namedset.xml" );
 	}
 	
 	return;
@@ -407,21 +398,21 @@ sub save_namedset_file
 {
 	my( $fullpath, $options ) = @_;
 
-	print "SAVING TO $fullpath\n" if $debug;
+	print "SAVING TO $fullpath\n" if $verbose;
 
 	if( !defined $fullpath )
 	{
-		print STDERR "ERROR: File path not supplied to save namedset file. Options not saved\n";
+		print STDERR "ERROR: File path not supplied to save namedset file. Options not saved.\n";
 		return;
 	}
 
 	if( -f "$fullpath" )
 	{
-		print STDERR "NOTE: Overwriting existing namedset file\n"
+		print STDERR "NOTE: Overwriting existing namedset file.\n"
 	}
 
 	open( my $fh, ">", "$fullpath" ) or die "Cannot open $fullpath for writing";
-	print $fh join( "\n",@$options);
+	print $fh join( "\n", @$options );
 	close( $fh );
 
 	return;
@@ -440,6 +431,7 @@ sub get_schema_modified_date
 			return $skos->{LANGS}->{DEFAULT}->{$_}->{'http://purl.org/dc/terms/modified'};
 		}
 	}
+
 	return "UNKNOWN";
 }
 
@@ -452,7 +444,7 @@ sub create_phrase_document
 	my $phrases = $doc->createElement( "phrases" );
 	$doc->setDocumentElement( $phrases );
 	$phrases->setNamespace( "http://www.w3.org/1999/xhtml", undef, 0 );
-	$phrases->setNamespace( "http://eprints.org/ep3/phrase", "epp", 1 );
+	$phrases->setNamespace( "http://eprints.org/ep3/phrase", "epp", 1 ); # make this the 'active' namespace
 	$phrases->setNamespace( "http://eprints.org/ep3/control", "epc", 0 );
 
 	return $doc;
