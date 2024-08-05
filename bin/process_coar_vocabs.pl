@@ -70,7 +70,6 @@ use XML::LibXML;
 use LWP::UserAgent;
 use Data::Dumper;
 
-my $source_dir = dirname(__FILE__) . "/../files/sources/clean/";
 my $output_dir = dirname(__FILE__) . "/../files/outputs";
 
 binmode *STDOUT, ':encoding(UTF-8)'; # debugging 
