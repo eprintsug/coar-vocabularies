@@ -78,8 +78,8 @@ use Data::Dumper;
 my $source_dir = dirname(__FILE__) . "/../files/sources/clean/";
 my $output_dir = dirname(__FILE__) . "/../files/outputs";
 
-binmode *STDOUT, ':utf8'; # debugging 
-
+#binmode *STDOUT, ':utf8'; # debugging 
+binmode *STDOUT, ':encoding(UTF-8)'; # debugging 
 
 my $verbose = 0;
 my $help = 0;
@@ -324,6 +324,8 @@ sub get_skos_from_url
 	{
 		print STDERR "Failed to retrieve $url: " . $r->code . " " . $r->message,"\n";
 	}
+
+	return;
 }
 
 sub process_skos
@@ -334,7 +336,7 @@ sub process_skos
 
 	# get rid of schema (and possibly other unwanted subjects)
 	my %excl;
-	@excl{@subjects_to_exclude} = undef;
+	@excl{@subjects_to_exclude} = undef; #cast array to hash
 	@namedset_opts = sort grep { not exists $excl{$_} } @namedset_opts;	
 
 	save_namedset_file( "$output_dir/cfg/namedsets/$namedset", \@namedset_opts );
@@ -398,17 +400,18 @@ sub process_skos
 		save_phrase_file( $doc, $phrase_path, "$namedset.xml" );	
 	}
 	
+	return;
 }
 
 sub save_namedset_file
 {
 	my( $fullpath, $options ) = @_;
 
-print "SAVING TO $fullpath\n";
+	print "SAVING TO $fullpath\n" if $debug;
 
 	if( !defined $fullpath )
 	{
-		print STDERR "file path not supplied to save namedset file\n";
+		print STDERR "ERROR: File path not supplied to save namedset file. Options not saved\n";
 		return;
 	}
 
@@ -420,15 +423,22 @@ print "SAVING TO $fullpath\n";
 	open( my $fh, ">", "$fullpath" ) or die "Cannot open $fullpath for writing";
 	print $fh join( "\n",@$options);
 	close( $fh );
+
+	return;
 }
 
 sub get_schema_modified_date
 {
 	my( $skos ) = @_;
 
-	if( exists $skos->{LANGS}->{DEFAULT}->{'http://purl.org/coar/access_right/scheme'}->{'http://purl.org/dc/terms/modified'} )
+	# The subjects to exclude are useful here - as they contain the scheme used for the modified element:
+	foreach( @subjects_to_exclude )
 	{
-		return $skos->{LANGS}->{DEFAULT}->{'http://purl.org/coar/access_right/scheme'}->{'http://purl.org/dc/terms/modified'};
+
+		if( exists $skos->{LANGS}->{DEFAULT}->{$_}->{'http://purl.org/dc/terms/modified'} )
+		{
+			return $skos->{LANGS}->{DEFAULT}->{$_}->{'http://purl.org/dc/terms/modified'};
+		}
 	}
 	return "UNKNOWN";
 }
@@ -459,6 +469,7 @@ sub add_phrase
 
 	$doc->documentElement->appendChild( $phrase );
 
+	return;
 }
 
 sub add_comment
@@ -466,6 +477,8 @@ sub add_comment
 	my( $doc, $comment ) = @_;
 
 	$doc->documentElement->appendChild( $doc->createComment( $comment ) );
+
+	return;
 }
 
 sub save_phrase_file
